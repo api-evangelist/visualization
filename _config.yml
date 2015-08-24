@@ -1,4 +1,4 @@
-title:        {"Visualization"}
+title:        {"API Visualization"}
 url:          http://visualization.apievangelist.com
 version:      1.1.1
 author:
@@ -8,7 +8,7 @@ markdown:     rdiscount
 permalink:    pretty
 pygments:     true
 
-permalink: /:categories/:year/:month/:day/:title 
+permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 
 paginate: 50
