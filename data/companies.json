@@ -253,5 +253,20 @@
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/613_logo.png",
 		"tags": null
+	},
+	{
+		"id": "18595",
+		"name": "Ardoq",
+		"summary": false,
+		"details": "",
+		"website": "http://ardoq.com/",
+		"twitter": "https://twitter.com/ardoqcom",
+		"github": "https://github.com/ardoq",
+		"blog": "http://ardoq.com/blog/",
+		"blogrss": "http://ardoq.com/blog/feed/",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ardoq-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ardoq-logo.png",
+		"tags": null
 	}
 ]
