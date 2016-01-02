@@ -1,5 +1,9 @@
 title:        {"API Visualization"}
 url:          http://visualization.apievangelist.com
+logo:         https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-evangelist-virtualization.png
+logo_width:   80
+logo_bottom_padding: 10
+
 version:      1.1.1
 author:
   name:       'Kin Lane'
@@ -20,3 +24,88 @@ BASE_PATH : http://visualization.apievangelist.com
 
 categories_path : /categories.html
 tags_path : /tags.html
+
+# Masthead title
+masthead_link: http://virtualization.apievangelist.com
+masthead_font_size: 65
+masthead_title: '{"API Virtualization"}'
+
+# Feature
+feature_title: API Design Providers Guide
+feature_link: http://apis.how/xzca4kr2wb
+feature_image_source: https://s3.amazonaws.com/kinlane-productions/whitepapers/3scale/report-image-api-design.png
+feature_image_width: 45
+
+# Project
+project_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-virtulization.png
+project_summary: A Research project to help study the area of virtualization around APIs, which usually is about the publishing of mock API interfaces, but could also apply to data or compute virtualization with APIs involved. You can find news I've curated, organizations doing interesting things, and some of the common building blocks I've identified.
+
+# Navigation
+navigation:
+  - label1: Home
+    link1: /index.html
+    size1: 80
+    extend: 0
+    label2:
+    link2:
+    size2: 0
+    padding: 0
+    decorate: 0
+  - label1: News
+    link1: /news/
+    size1: 80
+    extend: 1
+    label2: RSS
+    link2: /blog.xml
+    size2: 60
+    padding: 5
+    decorate: 0
+  - label1: Organizations
+    link1: /companies.html
+    size1: 80
+    extend: 1
+    label2: JSON
+    link2: /data/companies.json
+    size2: 60
+    padding: 0
+    decorate: 0
+  - label1: Building Blocks
+    link1: /building-blocks.html
+    size1: 80
+    extend: 1
+    label2: JSON
+    link2: /data/buildingblocks.json
+    size2: 60
+    padding: 0
+    decorate: 0
+  - label1: Return to API Evangelist
+    link1: http://apievangelist.com
+    size1: 80
+    extend: 0
+    label2:
+    link2:
+    size2: 10
+    padding: 12
+    decorate: 1
+
+# Footer Navigation
+footernavigation:
+  - label: API 100K View
+    link: http://apievangelist.com
+  - label: News
+    link: /news/
+  - label: Partners
+    link: http://apievangelist.com/partners/
+  - label: APIs.json
+    link: http://apisjson.org
+  - label: About Kin Lane
+    link: http://kinlane.com
+  - label: Branding Guidelines
+    link: http://apievangelist.com/branding-guidelines.html
+  - label: Contact
+    link: http://kinlane.com/contacts/
+
+# sponsors
+sponsors_margin_top: 15
+sponsors_padding_top: 3
+sponsors_json_url: https://s3.amazonaws.com/kinlane-productions/json/sponsors.json
