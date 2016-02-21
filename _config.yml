@@ -1,6 +1,7 @@
 title:        {"API Visualization"}
 url:          http://visualization.apievangelist.com
 logo:         https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-evangelist-virtualization.png
+
 logo_width:   80
 logo_bottom_padding: 10
 
@@ -13,12 +14,8 @@ markdown:     kramdown
 permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 
-paginate: 50
+paginate: 150
 paginate_path: "/news/page:num"
-
-production_url : http://visualization.apievangelist.com
-
-BASE_PATH : http://visualization.apievangelist.com
 
 categories_path : /categories.html
 tags_path : /tags.html
@@ -35,8 +32,8 @@ feature_image_source: https://s3.amazonaws.com/kinlane-productions/whitepapers/3
 feature_image_width: 45
 
 # Project
-project_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-virtulization.png
-project_summary: A Research project to help study the area of virtualization around APIs, which usually is about the publishing of mock API interfaces, but could also apply to data or compute virtualization with APIs involved. You can find news I've curated, organizations doing interesting things, and some of the common building blocks I've identified.
+project_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-visualization.png
+project_summary: A Research project to help study the area of visualizations build upon APIs, You can find news I've curated, organizations doing interesting things, and some of the common building blocks I've identified.
 
 # Navigation
 navigation:
