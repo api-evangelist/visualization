@@ -96,29 +96,6 @@
 		]
 	},
 	{
-		"id": "tihMQgoc5H3BdMMGSOLx4iAE0Oc51JvJOQgaitaG6VbPRV6Pyw5OPbWEuKyk8DNeA116xC1232bcCohcla5nvy116H3g117117",
-		"name": "geocommons",
-		"summary": "GeoIQ is the engine that powers the GeoCommons Community. GeoIQ includes a full Application Programming Interface (API) that allows developers to build unique and powerful domain specific applications. The API provides capability for uploading and download data, searching for data and maps, building, embedding, and theming maps or charts, as well as general user, group, and permissions management.",
-		"details": "GeoIQ is the engine that powers the GeoCommons Community. GeoIQ includes a full Application Programming Interface (API) that allows developers to build unique and powerful domain specific applications. The API provides capability for uploading and download data, searching for data and maps, building, embedding, and theming maps or charts, as well as general user, group, and permissions management.",
-		"website": "http://developer.geoiq.com",
-		"twitter": "https://twitter.com/geocommons",
-		"github": "https://github.com/geoiq",
-		"apisjson_url": "",
-		"sdksio_url": "",
-		"postman_url": "",
-		"portal_url": "https://github.com/geoiq",
-		"base_url": "",
-		"blog": "",
-		"blogrss": "",
-		"logo": "",
-		"logo_width": "0",
-		"screenshot": "",
-		"tags": [
-			"Visualization",
-			"Location"
-		]
-	},
-	{
 		"id": "116LlfH1162es0Q1h5RrxfJuoIJEFaZh123STGyX1vlZn6eQYHaxZ43Rh3OuV80PFuGcTxMYMp3Yxauip7gcnS8fmfkg117117",
 		"name": "Google",
 		"summary": "A Google API for rendering data driven visualizations to a website.",
