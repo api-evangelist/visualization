@@ -1,0 +1,401 @@
+- slug: google-data-studio
+  name: Google Data Studio
+  description: >-
+    Google Data Studio (beta) turns your data into informative dashboards and
+    reports that are easy to read, easy to share, and fully customizable.
+    Dashboarding allows you to tell great data stories to support better
+    business decisions.
+  url: 'https://www.google.com/analytics/data-studio/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2017-03-04 at 10.27.46 PM.png
+  tags: 'Visualizations,Analysis'
+- slug: ardoq
+  name: Ardoq
+  description: >-
+    Our aim was to give you unprecedented control and insight into your systems,
+    without the need for complex, expensive tools. So we&rsquo;ve created
+    something that does more than traditional enterprise architecture, costs
+    less and adds real value to your business. And we&rsquo;ve added unique
+    systems architecture maps, giving you at-a-glance insight, so key decisions
+    are based on the most up-to-data information.
+  url: 'http://ardoq.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/ardoqcom'
+  blog: 'http://ardoq.com/blog/'
+  blog_rss: 'http://ardoq.com/blog/feed/'
+  github: 'https://github.com/ardoq'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ardoq-logo.png
+  tags: Visualization
+- slug: hyperglance
+  name: Hyperglance
+  description: >-
+    Hyperglance simplifies your IT estate into a cohesive whole with an amazing
+    new level of dynamic visibility and control. Hyperglance is a leading-edge
+    software company that specializes in IT relationship modeling with easy to
+    use, dynamic, and gaming style graphics which enable organizations to gain
+    greater business context, insight, and control over complete IT estates
+    end-to-end. Hyperglance, is the world&rsquo;s first IT modelling and
+    visualization solution that cuts through the complexity of modern virtual
+    and physical IT systems to give small to large enterprise organizations a
+    comprehensive, interactive, 3D topology view of their many, often disparate,
+    layers of IT, or what we like to call IT &ldquo;relationships&rdquo;.
+  url: 'https://www.hyperglance.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/hyperglance'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/hyperglance.png
+  tags: Visualization
+- slug: information-is-beautiful
+  name: Information is Beautiful
+  description: >-
+    Myself, and the rest of the crack team here at Information is Beautiful, are
+    dedicated to distilling the world&rsquo;s data, information and knowledge
+    into beautiful, interesting and, above all, useful visualizations,
+    infographics and diagrams.
+  url: 'http://www.informationisbeautiful.net/'
+  short_url: ''
+  twitter: 'https://twitter.com/infobeautiful'
+  blog: 'http://www.informationisbeautiful.net/blog/'
+  blog_rss: 'http://feeds.feedburner.com/InformationIsBeautiful'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/information-is-beautiful.png
+  tags: Visualization
+- slug: keen-dashboards
+  name: Keen Dashboards
+  description: >-
+    Responsive dashboard templates for Bootstrap. Building a dashboard for your
+    customers? Need a quick and easy way to share stuff with your team? Check
+    out the new keen/dashboards on Github and get up and running super quick
+    with great-looking, customizable dashboard templates. Each template is
+    composed of a minimal set of custom styles built on top of Bootstrap v3.2,
+    covering some of the most common dashboard use cases and layout
+    configurations.
+  url: 'http://keen.github.io/dashboards/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Dashboards_by_Keen_IO.png
+  tags: Visualization
+- slug: lightning
+  name: Lightning
+  description: >-
+    Lightning is a data-visualization server providing API-based access to
+    reproducible, web-based, interactive visualizations. It includes a core set
+    of visualization types, but is built for extendability and customization.
+    Lightning supports modern libraries like d3.js and three.js, and is designed
+    for interactivity over large data sets and continuously updating data
+    streams.
+  url: 'http://lightning-viz.org/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/lightning-viz'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Lightning___Data_Visualization_Server.png
+  tags: Visualization
+- slug: recharts
+  name: Recharts
+  description: >-
+    A composable charting library built on React components. Recharts makes it
+    easy to integrate charts into your React application.&nbsp;
+  url: 'http://recharts.org/'
+  short_url: ''
+  twitter: ''
+  blog: 'http://recharts.org/blog'
+  blog_rss: ''
+  github: 'https://github.com/recharts/recharts'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Recharts.png
+  tags: Visualization
+- slug: mohiomap
+  name: Mohiomap
+  description: >-
+    Mohiomap lets you search across several Cloud platforms at once, rendering
+    the results as a dynamic Mind Map. Connect your &nbsp;Dropbox, &nbsp;
+    Evernote, and &nbsp;Google Drive accounts and find what you are looking for
+    the visual way.
+  url: 'https://www.moh.io/mohiomap/welcome.php'
+  short_url: ''
+  twitter: 'https://twitter.com/mohiomap'
+  blog: 'https://www.moh.io/mohiomap-blog/'
+  blog_rss: 'https://www.moh.io/mohiomap-blog/feed/'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mohiomap-logo.png
+  tags: 'Reclaim,Visualization'
+- slug: google-fusion-tables
+  name: Google Fusion Tables
+  description: >-
+    Fusion Tables is an experimental data visualization web application to
+    gather, visualize, and share data tables.
+  url: 'https://developers.google.com/fusiontables/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-fusion-tables.jpg
+  tags: 'Google APIs,Visualizations,Data,Database,Spreadsheets,Embeddable'
+- slug: quandl
+  name: Quandl
+  description: >-
+    We're collecting all the numerical data in the world. We have one mission:
+    to help users find the data they need, in the format they want. Fast. We
+    support open data; we believe that free public data should remain free and
+    public. We respect copyright; we believe that data creators should own their
+    data creations. We are an open platform. The same tools we use to add and
+    update the data on this site are available for you to use right now.
+  url: 'https://www.quandl.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/quandl'
+  blog: 'http://blog.quandl.com/'
+  blog_rss: 'http://blog.quandl.com/feed/'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/220px-Quandl_Logol.svg.png
+  tags: 'Finance,Data,Finance,Visualization,Target,Imports'
+- slug: national-oceanic-and-atmospheric-administration-noaa
+  name: National Oceanic and Atmospheric Administration (NOAA)
+  description: ''
+  url: 'http://www.noaa.gov/'
+  short_url: ''
+  twitter: 'https://twitter.com/fgbnms'
+  blog: ''
+  blog_rss: ''
+  github: 'http://github.com/ioos'
+  image: ''
+  tags: >-
+    Federal Government,Fourth Grade,Children And Families,Natural
+    Resources,Museums,History,Education Programs,Conservation Education,Free
+    Pass,Coral,Coral Reef,Coral Reefs,Fish,Manta,Conservation,National Marine
+    Sanctuary,Gulf Of Mexico,Gulf Coast,Missouri,Nws,Noaa,Weather,National
+    Weather Service,Weather Service,Kansas,Kansascity,Nebraska,South
+    Dakota,Minnesota,Sioux Falls,Kansas City,Central Region,Ocean, Animals,
+    Photography, Videography, Tourism,Air Travel,
+    Diving,Fishing,Marine,Shipwreck,Whales,Whale
+    Watching,Seabirds,Volunteers,Marine
+    Research,Recreation,Sanctuary,Sanctuaries,Sharks,Octopus,Shipwrecks,Monterey
+    Bay,Florida
+    Keys,Hawaii,Science,Travel,Tourism,Photography,Photos,Animals,Environment,Environmental,Noaa
+    Sanctuaries,Tumblr,Research,Citizen Science,Mbnms,Monterey,Humpback
+    Whale,Climate Change,Climate Adaptation,Climate,Global
+    Warming,News,Features,Magazine,Videos,Resilience,Community
+    Resilience,Climate Models,Climate Data,Climate smart,Editorial,Maps,Data
+    Visualization,Data,Climate Model
+- slug: department-of-commerce
+  name: Department of Commerce
+  description: ''
+  url: 'http://www.commerce.gov'
+  short_url: ''
+  twitter: 'https://twitter.com/fgbnms'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/us-bea'
+  image: ''
+  tags: >-
+    Federal Government,Coral,Coral Reef,Coral
+    Reefs,Fish,Manta,Conservation,National Marine Sanctuary,Gulf Of Mexico,Gulf
+    Coast,Jobs,Government Jobs,Economics,Missouri,Nws,Noaa,Weather,National
+    Weather Service,Weather Service,Kansas,Kansascity,Nebraska,South
+    Dakota,Minnesota,Sioux Falls,Kansas City,Central
+    Region,Innovation,Patents,Trademarks,Intellectual
+    Property,Ip,Inventor,Invention,Noaa Fisheries,Maritime,Nautical
+    Charts,Ecosystems,Stewardship,Ridge To Reef ,Climate
+    Change,Fishing,Reef,Charts,Hydrography,Ocean, Animals, Photography,
+    Videography, Tourism,Air Travel, Diving,Marine,Shipwreck,Whales,Whale
+    Watching,Seabirds,Volunteers,Marine Research,Atlantic Cod,Bluefin
+    Tuna,Humpback Whale,Shipwrecks,Sand
+    Lance,Acoustics,Science,Photography,Photos,Animals,Tourism,Travel,Environment,Environment,Noaa
+    Sanctuaries,Tumblr,Sanctuary,Research,Citizen
+    Science,Mbnms,Sanctuaries,Monterey,Monterey Bay,Hawaii,Climate,Climate
+    Adaptation,Climate Modeling,Data Visualization,Maps,Features,Global
+    Warming,News,Magazin
+- slug: periscope-data
+  name: Periscope Data
+  description: >-
+    Periscope plugs directly into your databases and lets you run, save, and
+    share analyses over billions of data rows in seconds. By plugging into
+    database, marketing and billing systems, it can show customers how email and
+    SMS affect user retention; which sales channels produce the most loyal
+    users; and how many users use both web and mobile frontends.
+  url: 'https://www.periscopedata.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/periscopedata'
+  blog: 'https://periscopedata.com/blog'
+  blog_rss: 'https://www.periscopedata.com/blog/atom.xml'
+  github: 'https://github.com/PeriscopeData'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/periscope-data.png
+  tags: 'Database,Visualization'
+- slug: plotly
+  name: plotly
+  description: >-
+    Plotly makes it easy to analyze and visualize data together. Using Plotly,
+    users can import data from anywhere, analyze it with Python, and stats
+    tools, and visualize data. Users can also share work and collaborate on
+    projects.
+  url: 'https://plot.ly/'
+  short_url: ''
+  twitter: 'https://twitter.com/plotlygraphs'
+  blog: 'http://blog.plot.ly/'
+  blog_rss: 'http://blog.plot.ly/rss'
+  github: 'https://github.com/plotly'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plotly-logo.png
+  tags: 'Data,Charts,Visualization,Visualization'
+- slug: highcharts
+  name: HighCharts
+  description: >-
+    Highcharts is a charting library written in pure JavaScript, offering an
+    easy way of adding interactive charts to your web site or web application.
+    Highcharts currently supports line, spline, area, areaspline, column, bar,
+    pie, scatter, angular gauges, arearange, areasplinerange, columnrange,
+    bubble, box plot, error bars, funnel, waterfall and polar chart types.
+  url: 'http://www.highcharts.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/Highcharts'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/highcharts'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/highcharts-logo.png
+  tags: 'Charts,Visualization,JavaScript'
+- slug: icharts
+  name: iCharts
+  description: >-
+    iCharts is a U.S. based SaaS company providing an easy and affordable online
+    service for interactive chart creation and social sharing. iCharts offerings
+    range from free consumer subscriptions to high-end business subscriptions.
+    The company's vision is to empower the world to explore and share data by
+    enabling the free flow of visual data among data owners, media, business and
+    consumers.
+  url: 'http://www.icharts.net'
+  short_url: ''
+  twitter: 'https://twitter.com/#!/iCharts'
+  blog: 'http://www.icharts.net/chartchannel'
+  blog_rss: 'http://feeds.feedburner.com/chartchannel'
+  github: 'https://github.com/iCharts'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1074_logo.jpg
+  tags: 'Charts,Graphs,Visualization,Visualization'
+- slug: keen-io
+  name: Keen IO
+  description: >-
+    Keen.io helps app developers build custom analytics &amp; data science
+    features directly into their mobile apps and web dashboards, by providing
+    the infrastructure and APIs to collect data and build analytics into your
+    business.
+  url: 'https://keen.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/keen_io'
+  blog: 'https://keen.io/blog'
+  blog_rss: 'http://keenio.tumblr.com/rss'
+  github: 'https://github.com/keenlabs'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/keen-io-logo.png
+  tags: 'Analysis,Visualization,Analysis'
+- slug: dataseed
+  name: dataseed
+  description: >-
+    Dataseed is a simple, flexible platform for interactive data visualisation,
+    analysis and reporting. Whether you need to be up and running in minutes or
+    require a custom solution tailored to your business requirements - we've got
+    you covered.
+  url: 'http://getdataseed.com'
+  short_url: ''
+  twitter: 'https://twitter.com/dataseedapp'
+  blog: 'http://blog.getdataseed.com/'
+  blog_rss: 'http://feeds.feedburner.com/DataseedBlog'
+  github: 'https://github.com/dataseed'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dataseed-logo.png
+  tags: 'Analysis,Visualization'
+- slug: bouquet
+  name: Bouquet
+  description: >-
+    Bouquet is an open source toolbox to explore, share and connect your data to
+    applications and visualizations.
+  url: 'http://openbouquet.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/openbouquet'
+  blog: 'https://medium.com/@OpenBouquet'
+  blog_rss: 'https://medium.com/feed/@OpenBouquet'
+  github: 'https://github.com/openbouquet'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bouquet-logo.73ec.png
+  tags: 'Analysis,Open Source,Visualization,Evangelism Target'
+- slug: churnbee
+  name: ChurnBee
+  description: >-
+    What? Churn Bee is a SaaS metrics dashboard. Once integrated via an API, you
+    will immediately start getting a visual representation of how is your
+    startup making progress from day to day. We&rsquo;ll do all the math and
+    number crunching - you will understand acquisition, activation, retention,
+    growth and other relevant metrics for your startup. Why? Many startups end
+    up building tools and dashboards internally. In fact all the successful
+    startups do. Built by entrepreneurs, for entrepreneurs, Churn Bee will give
+    you the actionable data you need so that you can focus on making the best
+    decisions.
+  url: 'https://churnbee.com'
+  short_url: ''
+  twitter: 'https://twitter.com/ChurnBee'
+  blog: 'http://blog.churnbee.com/'
+  blog_rss: 'http://blog.churnbee.com/feed'
+  github: 'https://github.com/churnbee'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/churnbee-logo.png
+  tags: 'Analysis,Metrics,Visualization,Platform'
+- slug: mathworks
+  name: MathWorks
+  description: >-
+    The MathWorks, Inc. (branded as simply MathWorks) is an American privately
+    held corporation that specializes in mathematical computing software. Its
+    major products include MATLAB and Simulink. As of April 2014, it employed
+    over 3,000 people worldwide with 70% located at the company's headquarters
+    in Natick, Massachusetts, United States.
+  url: 'http://www.mathworks.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/MATLAB'
+  blog: 'http://blogs.mathworks.com/graphics/'
+  blog_rss: 'http://blogs.mathworks.com/graphics/feed/'
+  github: 'https://github.com/mathworks'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mathworks.jpg
+  tags: 'Analysis,Machine Learning,Algorithms,Visualization'
+- slug: leftronic
+  name: Leftronic
+  description: >-
+    Leftronic is a Y Combinator-funded company that develops a web-based
+    real-time dashboard application for monitoring a company&rsquo;s most
+    important data. Leftronic business dashboards retrieve a company&rsquo;s
+    metrics from popular services such as Google Analytics, Twitter, Zendesk and
+    others, as well as receive custom metrics through a super-simple API. The
+    dashboards update in real-time and are designed for large screens. This
+    makes it easy for teams to monitor their company&rsquo;s critical
+    metrics.&lt;/p&gt;
+  url: 'https://leftronic.com'
+  short_url: ''
+  twitter: 'https://twitter.com/leftronicco'
+  blog: 'http://blog.leftronic.com/'
+  blog_rss: 'https://www.leftronic.com/feed/'
+  github: 'https://github.com/leftronic'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/835_logo.png
+  tags: >-
+    Analysis,Dashboard,Data,Tracking,Visualization,Visualization,Visualization,Analysis
