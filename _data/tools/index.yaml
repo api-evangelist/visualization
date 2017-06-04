@@ -1,0 +1,131 @@
+- slug: plottable
+  name: plottable
+  description: ':bar_chart: A library of modular chart components built on D3'
+  url: 'https://github.com/palantir/plottable'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Visualizations
+- slug: charted
+  name: charted
+  description: 'A charting tool that produces automatic, shareable charts from any data file'
+  url: 'https://github.com/embedly/charted'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Visualization
+- slug: algorithmvisualizer
+  name: AlgorithmVisualizer
+  description: Algorithm Visualizer
+  url: 'https://github.com/parkjs814/AlgorithmVisualizer'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Visualization,Algorithms'
+- slug: highchartimageapi
+  name: highchart-image-api
+  description: API for generating custom highchart images to be embedded in emails.
+  url: 'https://github.com/kbaum/highchart-image-api'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Embeddable,Visualizations'
+- slug: openapispecificationvisualdocumentation
+  name: openapi-specification-visual-documentation
+  description: >-
+    D3 rendering of the OpenAPI specification (fka Swagger Specification) to
+    provide an easy to read visual documentation
+  url: 'https://github.com/arno-di-loreto/openapi-specification-visual-documentation'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Visualizatoins,Visualizations'
+- slug: d3.js
+  name: D3.js
+  description: >-
+    D3.js is a JavaScript library for manipulating documents based on data. D3
+    helps you bring data to life using HTML, SVG and CSS. D3&rsquo;s emphasis on
+    web standards gives you the full capabilities of modern browsers without
+    tying yourself to a proprietary framework, combining powerful visualization
+    components and a data-driven approach to DOM manipulation.
+  url: 'http://d3js.org/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/d3-js-example.png
+  tags: 'Hacker Storytelling,Visualization,JavaScript'
+- slug: openbankprojectdatavis
+  name: OpenBankProject-DataVis
+  description: Data visualisation for Open Bank Project
+  url: 'https://github.com/OpenBankProject/OpenBankProject-DataVis'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Visualization,Banking'
+- slug: dataviz
+  name: dataviz
+  description: OpenDNS Data Visualization Framework
+  url: 'https://github.com/opendns/dataviz'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'DNS,Visualization'
+- slug: financialcharting
+  name: FinancialCharting
+  description: >-
+    Stock charts. Application uses ExtJS, HighStock, ServiceStack (with swagger
+    and caching) and Quandl.com (datafeed).
+  url: 'https://github.com/AnCh7/FinancialCharting/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Visualization,Swagger'
+- slug: blockly
+  name: blockly
+  description: The web-based visual programming editor.
+  url: 'https://github.com/google/blockly'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Visualization,Algorithms'
+- slug: embertimetree
+  name: ember-timetree
+  description: "Visualize hierarchical timeline data. Built with Ember.js\_and D3.js"
+  url: 'https://github.com/CrowdStrike/ember-timetree'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Visualization
