@@ -278,17 +278,17 @@
   url: http://news.lib.ncsu.edu/blog/2015/04/21/libraries-announces-winners-for-codeart-student-visualization-contest/
   domain: news.lib.ncsu.edu
   image: ""
-- curated_id: 3d0f6ed74fba8463e7fe1f6fd2ee87f2
-  item_date: "2015-04-21 00:00:00"
-  title: Announcing the public beta of Mohiomap for Box
-  url: https://www.moh.io/mohiomap-blog/announcing-the-public-beta-of-mohiomap-for-box/
-  domain: www.moh.io
-  image: ""
 - curated_id: 3903cc7578b35edeff86803b49df9937
   item_date: "2015-04-21 00:00:00"
   title: DataHero Announces Dual Axis Charts
   url: https://datahero.com/blog/2015/04/21/datahero-announces-dual-axis-charts/
   domain: datahero.com
+  image: ""
+- curated_id: 3d0f6ed74fba8463e7fe1f6fd2ee87f2
+  item_date: "2015-04-21 00:00:00"
+  title: Announcing the public beta of Mohiomap for Box
+  url: https://www.moh.io/mohiomap-blog/announcing-the-public-beta-of-mohiomap-for-box/
+  domain: www.moh.io
   image: ""
 - curated_id: dba51bcc527ba93f7fe03868747280d5
   item_date: "2015-04-21 08:35:28"
@@ -416,17 +416,17 @@
   url: http://flowingdata.com/2015/05/25/every-nba-team-rated-over-several-decades/
   domain: flowingdata.com
   image: ""
-- curated_id: be51edc9917ebf96eecd34ac6f65afa0
-  item_date: "2015-05-27 00:00:00"
-  title: This Map Shows the Price Of Weed In Every State
-  url: http://www.motherjones.com/politics/2015/05/weed-map
-  domain: www.motherjones.com
-  image: ""
 - curated_id: 47759ceea5fcb5d4ad39ff8db6ac9c08
   item_date: "2015-05-27 00:00:00"
   title: Picking The Right Visualization For Your Data
   url: http://blog.silk.co/post/120086012962/picking-the-right-visualization-for-your-data#_=_
   domain: blog.silk.co
+  image: ""
+- curated_id: be51edc9917ebf96eecd34ac6f65afa0
+  item_date: "2015-05-27 00:00:00"
+  title: This Map Shows the Price Of Weed In Every State
+  url: http://www.motherjones.com/politics/2015/05/weed-map
+  domain: www.motherjones.com
   image: ""
 - curated_id: 731a16ac346ed3ad1ae1c10f51b8af97
   item_date: "2015-05-28 00:00:00"
@@ -464,6 +464,12 @@
   url: http://flowingdata.com/2015/06/08/a-color-analysis-of-western-films/
   domain: flowingdata.com
   image: ""
+- curated_id: fa48cf3286a68f7821703575d4980bb1
+  item_date: "2015-06-09 00:00:00"
+  title: See Your Data
+  url: http://www.yetanalytics.com/blog/2015/6/9/see-your-data
+  domain: www.yetanalytics.com
+  image: ""
 - curated_id: 6dfea661ac3892daa1d844476f9ab5c0
   item_date: "2015-06-09 00:00:00"
   title: Reddit button ends, and here?s the click data
@@ -475,12 +481,6 @@
   title: Length of the average master?s thesis
   url: http://flowingdata.com/2015/06/09/length-of-the-average-masters-thesis/
   domain: flowingdata.com
-  image: ""
-- curated_id: fa48cf3286a68f7821703575d4980bb1
-  item_date: "2015-06-09 00:00:00"
-  title: See Your Data
-  url: http://www.yetanalytics.com/blog/2015/6/9/see-your-data
-  domain: www.yetanalytics.com
   image: ""
 - curated_id: 665c111f17559b01c2b9aab3b3541662
   item_date: "2015-06-10 00:00:00"
@@ -591,17 +591,17 @@
   url: http://flowingdata.com/2015/06/26/same-sex-marriage-legalized-in-all-states/
   domain: flowingdata.com
   image: ""
-- curated_id: 97ae69be87d466b26dde02100507bd09
-  item_date: "2015-06-26 00:00:00"
-  title: Drought report cards for California water districts
-  url: http://flowingdata.com/2015/06/26/drought-report-cards-for-california-water-districts/
-  domain: flowingdata.com
-  image: ""
 - curated_id: 5c6e920afae831f062eb993b1ba914dc
   item_date: "2015-06-26 00:00:00"
   title: Flot chart using AngularJS, Web API and Json
   url: http://www.codeproject.com/Articles/999981/Flot-chart-using-AngularJS-Web-API-and-Json
   domain: www.codeproject.com
+  image: ""
+- curated_id: 97ae69be87d466b26dde02100507bd09
+  item_date: "2015-06-26 00:00:00"
+  title: Drought report cards for California water districts
+  url: http://flowingdata.com/2015/06/26/drought-report-cards-for-california-water-districts/
+  domain: flowingdata.com
   image: ""
 - curated_id: c29c87311b79162c32838daf7c99c100
   item_date: "2015-06-29 00:00:00"
@@ -695,13 +695,6 @@
   url: http://flowingdata.com/2015/08/13/fitbit-during-sex/
   domain: flowingdata.com
   image: ""
-- curated_id: 9b4c089cee88b3255bf44ca258bc0a73
-  item_date: "2015-08-19 00:00:00"
-  title: A chart made from Ashley Madison data reveals 25 cities where the most people
-    want to cheat
-  url: http://www.businessinsider.com/ashley-madison-data-chart-of-cheaters-2015-8
-  domain: www.businessinsider.com
-  image: ""
 - curated_id: 512a09710d57dce86927e628d5664d7d
   item_date: "2015-08-19 00:00:00"
   title: Nuclear detonations from 1945 to present
@@ -713,6 +706,13 @@
   title: 'Analyzing Data: Eleven Graphs You Should See About The Death Penalty'
   url: http://blog.plot.ly/post/127132206092/analyzing-data-eighteen-graphs-about-the-death#_=_
   domain: blog.plot.ly
+  image: ""
+- curated_id: 9b4c089cee88b3255bf44ca258bc0a73
+  item_date: "2015-08-19 00:00:00"
+  title: A chart made from Ashley Madison data reveals 25 cities where the most people
+    want to cheat
+  url: http://www.businessinsider.com/ashley-madison-data-chart-of-cheaters-2015-8
+  domain: www.businessinsider.com
   image: ""
 - curated_id: bd4d56e465c1e51295e8454efcee5aa7
   item_date: "2015-08-20 00:00:00"
@@ -978,17 +978,17 @@
   url: http://blog.justgiving.com/heat-mapping-a-guide-to-creating-your-own-visual-data-visualisation/
   domain: blog.justgiving.com
   image: ""
-- curated_id: 12beb345aac84613ae7c1e5507a8f079
-  item_date: "2016-03-01 00:00:00"
-  title: ""
-  url: http://www.codeproject.com/Articles/1082105/Visual-Modeling-Made-Easy-with-the-RASON-API-and-D
-  domain: www.codeproject.com
-  image: ""
 - curated_id: bc2baf7fcafaede3e2f1ba571930141b
   item_date: "2016-03-01 00:00:00"
   title: MongoDB Collection simplifies your search and visualization
   url: http://www.searchblox.com/mongodb-collection-simplifies-your-search-and-visualization
   domain: www.searchblox.com
+  image: ""
+- curated_id: 12beb345aac84613ae7c1e5507a8f079
+  item_date: "2016-03-01 00:00:00"
+  title: ""
+  url: http://www.codeproject.com/Articles/1082105/Visual-Modeling-Made-Easy-with-the-RASON-API-and-D
+  domain: www.codeproject.com
   image: ""
 - curated_id: c794d5c8763369a74f7046365c899bc6
   item_date: "2016-03-03 00:00:00"
@@ -1122,17 +1122,17 @@
   url: http://flowingdata.com/2016/04/19/interconnectedness-of-the-galaxies/
   domain: flowingdata.com
   image: ""
-- curated_id: 95f39f124b52e72a813c5b316b551ec1
-  item_date: "2016-04-25 00:00:00"
-  title: Above All Else Show the Data
-  url: http://blog.plot.ly/post/143370337552/above-all-else-show-the-data#_=_
-  domain: blog.plot.ly
-  image: ""
 - curated_id: acb853353653dd8ad8a4933be1535b86
   item_date: "2016-04-25 00:00:00"
   title: Here?s how a neural network works
   url: http://flowingdata.com/2016/04/25/heres-how-a-neural-network-works/
   domain: flowingdata.com
+  image: ""
+- curated_id: 95f39f124b52e72a813c5b316b551ec1
+  item_date: "2016-04-25 00:00:00"
+  title: Above All Else Show the Data
+  url: http://blog.plot.ly/post/143370337552/above-all-else-show-the-data#_=_
+  domain: blog.plot.ly
   image: ""
 - curated_id: 382edd4c9ce772a5d2874d935d33504d
   item_date: "2016-04-26 00:00:00"
@@ -1140,17 +1140,17 @@
   url: http://www.chartjs.org/
   domain: www.chartjs.org
   image: ""
-- curated_id: 91bd258c8d55749cf0490819e6ba2219
-  item_date: "2016-04-28 00:00:00"
-  title: How to Create a Venn Diagram in Gliffy
-  url: https://www.gliffy.com/blog/2016/04/28/how-to-create-a-venn-diagram-in-gliffy/
-  domain: www.gliffy.com
-  image: ""
 - curated_id: 7a463842426458ff2be4a9874f5fbc06
   item_date: "2016-04-28 00:00:00"
   title: 'Tools for Data Visualization Part 2: Cleaning Data'
   url: http://blog.silk.co/post/143527419532/tools-for-data-visualization-part-2-cleaning-data#_=_
   domain: blog.silk.co
+  image: ""
+- curated_id: 91bd258c8d55749cf0490819e6ba2219
+  item_date: "2016-04-28 00:00:00"
+  title: How to Create a Venn Diagram in Gliffy
+  url: https://www.gliffy.com/blog/2016/04/28/how-to-create-a-venn-diagram-in-gliffy/
+  domain: www.gliffy.com
   image: ""
 - curated_id: 2df8c25df9249fa011be159d5b993bd7
   item_date: "2016-05-02 00:00:00"
@@ -1218,17 +1218,17 @@
   url: https://dzone.com/articles/visualizing-algorithms-before-implementation
   domain: dzone.com
   image: ""
-- curated_id: 28a0bb2ab7d67b2abe312c64a320976f
-  item_date: "2016-06-06 00:00:00"
-  title: 17 Data Visualization Tools  Resources You Should Bookmark
-  url: http://blog.hubspot.com/marketing/data-visualization-resources
-  domain: blog.hubspot.com
-  image: ""
 - curated_id: 4048a1951f2f1c1babfac660ecc1d326
   item_date: "2016-06-06 00:00:00"
   title: Best practices for Tableau Server on Google Compute Engine
   url: https://cloudplatform.googleblog.com/2016/06/best-practices-for-Tableau-Server-on-Google-Compute-Engine.html
   domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: 28a0bb2ab7d67b2abe312c64a320976f
+  item_date: "2016-06-06 00:00:00"
+  title: 17 Data Visualization Tools  Resources You Should Bookmark
+  url: http://blog.hubspot.com/marketing/data-visualization-resources
+  domain: blog.hubspot.com
   image: ""
 - curated_id: 04ed5f8b7c0d86c10c109865b00053c8
   item_date: "2016-06-07 00:00:00"
@@ -1516,22 +1516,702 @@
   url: http://jobs.climber.com/jobs/Information-Technology/Lexington-MA-00745-USA/Cyber-Visualization-Developer/212957439
   domain: jobs.climber.com
   image: ""
-- curated_id: ae321686bd1b31a1f01e283439a86657
-  item_date: "2017-02-28 00:00:00"
-  title: Data visualization helps us untangle the complexity of cities
-  url: http://360.here.com/2017/02/28/data-visualization-helps-us-untangle-complexity-cities/
-  domain: 360.here.com
-  image: ""
 - curated_id: f6f03ff36b4bd28ec2409b635f5e0840
   item_date: "2017-02-28 00:00:00"
   title: Reflect drops public beta to power developer-first data visualization
   url: https://techcrunch.com/2017/02/28/reflect-drops-public-beta-to-power-developer-first-data-visualization/
   domain: techcrunch.com
   image: ""
+- curated_id: ae321686bd1b31a1f01e283439a86657
+  item_date: "2017-02-28 00:00:00"
+  title: Data visualization helps us untangle the complexity of cities
+  url: http://360.here.com/2017/02/28/data-visualization-helps-us-untangle-complexity-cities/
+  domain: 360.here.com
+  image: ""
 - curated_id: b30c2165a61658cb5f98873f39dd0196
   item_date: "2017-03-16 00:00:00"
   title: Real-Time Data Visualization Taking Hold in the Enterprise
   url: https://gigaom.com/2017/03/16/alooma/
   domain: gigaom.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15be8e326aa:2986e24:452180c4
+  item_date: "2017-05-08 09:25:55"
+  title: X
+  url: http://flowingdata.com/?p=48618
+  domain: flowingdata.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15bfbe667c9:48b6753:31944e30
+  item_date: "2017-05-12 02:00:54"
+  title: Gerrymandering game shows you how it works
+  url: http://flowingdata.com/?p=48665
+  domain: flowingdata.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15c0cdb993a:5ed0b9d:452180c4
+  item_date: "2017-05-15 09:03:28"
+  title: "The Hitchhiker\u2019s Guide to d3.js"
+  url: http://flowingdata.com/?p=48677
+  domain: flowingdata.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_15c15f6111f:3dddaa:f60c310d
+  item_date: "2017-05-17 03:30:49"
+  title: The war over artificial intelligence will be won with visual data
+  url: http://techcrunch.com/?p=1489999
+  domain: techcrunch.com
+  image: ""
+- curated_id: PabZ8i1QCHv3KpsuDwP+IaHjEII8doc1zV63QTNW0N8=_15c1ce258b9:70649f:452180c4
+  item_date: "2017-05-18 11:46:54"
+  title: A month of breaking news alerts, visualized
+  url: https://www.washingtonpost.com/news/politics/wp/2017/05/18/a-month-of-breaking-news-alerts-visualized/
+  domain: www.washingtonpost.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_15c22ad9ae5:8e7cc6:acd33476
+  item_date: "2017-05-19 14:46:13"
+  title: "Deep Algo offers simple code visualization for people who don\u2019t know
+    how to code"
+  url: http://techcrunch.com/?p=1493581
+  domain: techcrunch.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15c373578d2:1f76303:bb404dd5
+  item_date: "2017-05-23 14:23:22"
+  title: Medieval fantasy city generator
+  url: http://flowingdata.com/?p=48717
+  domain: flowingdata.com
+  image: ""
+- curated_id: p9l1QRJSWsBdfQhLvEqI6rdgjdJrOWvtCS0GvuF9J1Q=_15c3944b875:25b621e:1980c846
+  item_date: "2017-05-24 00:01:17"
+  title: 'Introducing Health Map: Innovative Visualization Integrates Our Application
+    and Infrastructure Monitoring Data'
+  url: http://blog.newrelic.com/?p=37051
+  domain: blog.newrelic.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15c3c019ba1:2632f08:bb404dd5
+  item_date: "2017-05-24 12:45:53"
+  title: Past and future of data analysis
+  url: http://flowingdata.com/?p=48729
+  domain: flowingdata.com
+  image: ""
+- curated_id: g8yFv8q12UnL70ldUa6MmrcjpJr9X+r0IN92Ot48m8g=_15c420b80f0:3401c94:cfb784e9
+  item_date: "2017-05-24 17:00:00"
+  title: Periscope Data
+  url: https://webflow-blog.periscopedata.com/blog/spline-interpolation-in-sql
+  domain: webflow-blog.periscopedata.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15c45dd8a62:398b577:1980c846
+  item_date: "2017-05-26 10:43:21"
+  title: Make your own data gifs with our new tool
+  url: https://www.blog.google/topics/journalism-news/make-your-own-data-gifs-our-new-too/
+  domain: www.blog.google
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15c5850d834:50075ab:cfb784e9
+  item_date: "2017-05-30 00:43:33"
+  title: Comparing Google Maps and Apple Maps Over a Year
+  url: http://flowingdata.com/?p=48742
+  domain: flowingdata.com
+  image: ""
+- curated_id: g8yFv8q12UnL70ldUa6MmrcjpJr9X+r0IN92Ot48m8g=_15c64f80827:64a2640:1980c846
+  item_date: "2017-05-31 17:00:00"
+  title: Periscope Data
+  url: https://webflow-blog.periscopedata.com/blog/new-product-feature-color-themes
+  domain: webflow-blog.periscopedata.com
+  image: ""
+- curated_id: PSNTZO8gXFUe+cpCZyApw0vEKWPT4b14D6teBEocIAE=_15c64a0a29c:63fa2fd:1980c846
+  item_date: "2017-06-01 10:00:03"
+  title: Google Sheets is making it easier to create charts through natural language
+    commands
+  url: https://www.theverge.com/2017/6/1/15724970/google-sheets-update-charts-explore-sync-data
+  domain: www.theverge.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_15c649aa862:26d9cd:7c63ad1c
+  item_date: "2017-06-01 10:00:35"
+  title: Google Sheets now uses machine learning to help you visualize your data
+  url: http://techcrunch.com/?p=1498237
+  domain: techcrunch.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15ca2004cc1:2b94b54:d0168500
+  item_date: "2017-06-13 06:19:08"
+  title: 'Keeping up with Kibana: This week in Kibana for June 12, 2017'
+  url: https://www.elastic.co/blog/keeping-up-with-kibana-2017-6-12
+  domain: www.elastic.co
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15ca1cb300e:1c86e5:897ecf93
+  item_date: "2017-06-13 07:10:29"
+  title: Gun emoji usage analysis
+  url: http://flowingdata.com/?p=48896
+  domain: flowingdata.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15ca5840d22:304e514:d0168500
+  item_date: "2017-06-14 00:26:11"
+  title: Moving ice
+  url: http://flowingdata.com/?p=48908
+  domain: flowingdata.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15caa9dd86f:3eda40:bb404dd5
+  item_date: "2017-06-15 00:17:58"
+  title: Mappings for Choose Your Own Adventure books
+  url: http://flowingdata.com/?p=48917
+  domain: flowingdata.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15cb1f6c784:5f265b:3aab93c7
+  item_date: "2017-06-16 10:31:35"
+  title: Normal coffee
+  url: http://flowingdata.com/?p=48950
+  domain: flowingdata.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15cbf406af8:6ad7f4:60392a0b
+  item_date: "2017-06-19 00:22:13"
+  title: Circle drawing as an indicator for culture
+  url: http://flowingdata.com/?p=48957
+  domain: flowingdata.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15cc9b47182:a05b46:5b78a817
+  item_date: "2017-06-21 01:04:43"
+  title: A thousand ways to draw a thing
+  url: http://flowingdata.com/?p=48973
+  domain: flowingdata.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15cceafd945:123aeab:517b1451
+  item_date: "2017-06-22 00:17:10"
+  title: Email Deletion Flowchart
+  url: http://flowingdata.com/?p=48980
+  domain: flowingdata.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15ce5d477ce:3271f28:517b1451
+  item_date: "2017-06-26 11:56:08"
+  title: Kibana's New Time Series Visual Builder
+  url: https://www.elastic.co/blog/kibanas-new-time-series-visual-builder-part-2
+  domain: www.elastic.co
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15ce9e31841:37dc7f8:5b78a817
+  item_date: "2017-06-27 06:19:08"
+  title: 'Keeping up with Kibana: This week in Kibana for June 26, 2017'
+  url: https://www.elastic.co/blog/keeping-up-with-kibana-2017-6-26
+  domain: www.elastic.co
+  image: ""
+- curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_15cef634eaf:398ec43:fe3a8465
+  item_date: "2017-06-28 08:29:00"
+  title: This mesmerizing map shows the world's cars, buses, and subways moving in
+    real
+  url: http://www.businessinsider.com/real-time-transit-map-2017-6?utm_source=feedly&amp;utm_medium=referral
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15cf46f5057:40ebc83:fe3a8465
+  item_date: "2017-06-29 08:14:59"
+  title: Misleading Medicaid funding with the baseline
+  url: http://flowingdata.com/?p=49034
+  domain: flowingdata.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15cf72f3f82:a5762a:661f1d99
+  item_date: "2017-06-29 09:25:11"
+  title: Qlik Sense API Insights
+  url: https://medium.com/p/3e84b61602bd
+  domain: medium.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15cfb241b53:5531216:517b1451
+  item_date: "2017-06-30 15:29:10"
+  title: Visualizations That Really Work
+  url: https://hbr.org/2016/06/visualizations-that-really-work
+  domain: hbr.org
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15d18f33968:1589890:32bbcd87
+  item_date: "2017-07-06 10:05:00"
+  title: Kibana 5.5.0 released
+  url: https://www.elastic.co/blog/kibana-5-5-0-released
+  domain: www.elastic.co
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15d29e5dbc3:d2d8a2:fcbc4223
+  item_date: "2017-07-09 11:12:27"
+  title: Visualizing transit vehicle locations on a map in real
+  url: https://medium.com/p/67a97c77cbe3
+  domain: medium.com
+  image: ""
+- curated_id: YkHSjitc8H2BhHwUtfFoNoqyfwfO4rNj4K2jWs1BWP0=_15d42495e2d:32a787d:32bbcd87
+  item_date: "2017-07-14 11:08:10"
+  title: 'New feature roundup: Visualization and collaboration'
+  url: https://www.datadoghq.com/blog/feature-roundup-visualization-collaboration/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15d44d50072:360ef46:32bbcd87
+  item_date: "2017-07-14 22:52:50"
+  title: Markvis
+  url: https://markvis.js.org/?ref=producthunt#/
+  domain: markvis.js.org
+  image: ""
+- curated_id: 0VTnUfX894TcY5TA/oMFDbEY1bDrlajzsn67Jr80r8M=_15d4fdadf4f:18be7d1:5577d05
+  item_date: "2017-07-17 02:21:09"
+  title: This visualization shows Airbnb spreading like a virus in Amsterdam
+  url: https://thenextweb.com/?p=1062840
+  domain: thenextweb.com
+  image: ""
+- curated_id: UjG+CeLaqj27hMBI/WjhTGNNUNvP04IJdUFt2zsPBtQ=_15d5480ddfe:49ecd7f:32bbcd87
+  item_date: "2017-07-18 00:00:00"
+  title: 11+ Killer Open Data Sources and Free Visualization Tools
+  url: http://nordicapis.com/?p=6840
+  domain: nordicapis.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15d56874aa9:4d573c9:4825a421
+  item_date: "2017-07-18 09:25:53"
+  title: Reconstructing faces from brain waves
+  url: http://flowingdata.com/?p=49183
+  domain: flowingdata.com
+  image: ""
+- curated_id: aYdLShI8IM6FbqAIXqvMF6zTdT8MscOoYw0EWDIWJIo=_15d6187fabf:9de297:8fa6dd97
+  item_date: "2017-07-19 09:00:51"
+  title: Visualizing the Next 100 Years of Solar Eclipses
+  url: https://www.datainnovation.org/?p=7627
+  domain: www.datainnovation.org
+  image: ""
+- curated_id: aYdLShI8IM6FbqAIXqvMF6zTdT8MscOoYw0EWDIWJIo=_15debe076b9:5af739:218de7ce
+  item_date: "2017-07-19 09:00:51"
+  title: Visualizing the Next 100 Years of Solar Eclipses
+  url: http://dev-center-for-data-innovation.pantheonsite.io/?p=7627
+  domain: dev-center-for-data-innovation.pantheonsite.io
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15d721a0391:1e74aff:9493fdce
+  item_date: "2017-07-19 12:03:34"
+  title: "Data Visualization of Pittsburgh\u2019s Municipal Building Energy Usage"
+  url: http://www.infocaptor.com/dashboard/data-visualization-of-pittsburghs-municipal-building-energy-usage
+  domain: www.infocaptor.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15d7d2b2d69:2ec9982:9493fdce
+  item_date: "2017-07-25 21:27:55"
+  title: Divorce and Occupation
+  url: http://flowingdata.com/?p=49214
+  domain: flowingdata.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15d80e219ba:189acd:7c429290
+  item_date: "2017-07-26 14:45:56"
+  title: Ten
+  url: http://flowingdata.com/?p=49242
+  domain: flowingdata.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15d8482a583:3a5e93c:53d642ee
+  item_date: "2017-07-27 07:40:34"
+  title: Explaining the evolution of trust with game theory
+  url: http://flowingdata.com/?p=49228
+  domain: flowingdata.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15d859522e6:3c8da96:9493fdce
+  item_date: "2017-07-27 10:05:21"
+  title: "How I built a wind map with WebGL \u2013 Points of interest"
+  url: https://blog.mapbox.com/how-i-built-a-wind-map-with-webgl-b63022b5537f
+  domain: blog.mapbox.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15d876c5349:4e5864:8fa6dd97
+  item_date: "2017-07-27 21:19:48"
+  title: How many people might lose health insurance
+  url: http://flowingdata.com/?p=49252
+  domain: flowingdata.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15d9c3efb02:e40fb:9cc60c90
+  item_date: "2017-07-31 22:20:08"
+  title: "Satellite view of the upcoming eclipse\u2019s path"
+  url: http://flowingdata.com/?p=49267
+  domain: flowingdata.com
+  image: ""
+- curated_id: aYdLShI8IM6FbqAIXqvMF6zTdT8MscOoYw0EWDIWJIo=_15da4b51ee6:df1587:218de7ce
+  item_date: "2017-08-02 09:00:24"
+  title: Visualizing the Flow of Goods Across America
+  url: https://www.datainnovation.org/?p=7685
+  domain: www.datainnovation.org
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15da41ad86a:d04c4f:218de7ce
+  item_date: "2017-08-02 10:55:19"
+  title: FHWA RDE Data Visualization Examples
+  url: https://www.its-rde.net/RDE-Visualizations/
+  domain: www.its-rde.net
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15da6e09b24:21c27e:b8b2a437
+  item_date: "2017-08-02 23:50:50"
+  title: Flow of goods between states
+  url: http://flowingdata.com/?p=49291
+  domain: flowingdata.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15dabfceab6:9c25bb:9cc60c90
+  item_date: "2017-08-03 23:39:27"
+  title: Working on Tips, by State
+  url: http://flowingdata.com/?p=49296
+  domain: flowingdata.com
+  image: ""
+- curated_id: dU5peSp0V6f8LsDMUzzgZGqiuFWv2htICdJf6zfcBfc=_15dae0ebaec:d39213:ce556ce1
+  item_date: "2017-08-04 09:21:20"
+  title: Geographer makes maps that reveal river networks as veins
+  url: http://boingboing.net/?p=539338
+  domain: boingboing.net
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15dbaf15aa2:25f5ef:196efac0
+  item_date: "2017-08-06 21:21:22"
+  title: Interactive shows map projections with a face
+  url: http://flowingdata.com/?p=49325
+  domain: flowingdata.com
+  image: ""
+- curated_id: FlM2ORollv7buAbLPIk7bq38WKo7ntpuEC3DQ4J61i8=_15dbe19ea35:1b39d9:6c0c5382
+  item_date: "2017-08-07 00:01:09"
+  title: 'Tips & Tricks: Adding Your GPS Location to Spotfire Map Visualizations'
+  url: https://www.tibco.com/blog/?p=37924
+  domain: www.tibco.com
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_15dbcfc2fc1:1f24cb7:b8b2a437
+  item_date: "2017-08-07 06:43:45"
+  title: What Happens in Between Data Extraction and Visualization
+  url: https://www.promptcloud.com/?p=34340
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15dc5849c06:11bb161:196efac0
+  item_date: "2017-08-09 00:09:54"
+  title: "\u200BBuilding a Better Search Experience in Kibana"
+  url: https://www.elastic.co/blog/building-a-better-search-experience-in-kibana
+  domain: www.elastic.co
+  image: ""
+- curated_id: aYdLShI8IM6FbqAIXqvMF6zTdT8MscOoYw0EWDIWJIo=_15dd4c7333a:11e5dd:bd5def64
+  item_date: "2017-08-09 09:00:19"
+  title: Visualizing Mini
+  url: https://www.datainnovation.org/?p=7709
+  domain: www.datainnovation.org
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15dcdb29e3e:39407d9:ce556ce1
+  item_date: "2017-08-10 12:45:36"
+  title: Perception of neighborhoods through Airbnb ratings
+  url: http://flowingdata.com/?p=49381
+  domain: flowingdata.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_15e1f7b5259:47d5fa:ddacb472
+  item_date: "2017-08-10 13:37:04"
+  title: Using Machine Learning to Visualize Customer Preferences
+  url: https://medium.com/p/6a007cfb9b97
+  domain: medium.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15dd047bcad:3c71053:b8b2a437
+  item_date: "2017-08-11 00:43:47"
+  title: Machine learning to find spy planes
+  url: http://flowingdata.com/?p=49371
+  domain: flowingdata.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15de44c21ee:1830e1:bd5def64
+  item_date: "2017-08-14 22:08:37"
+  title: How far you can drive out of the city in one hour
+  url: http://flowingdata.com/?p=49454
+  domain: flowingdata.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15de9879aa6:1fda56:218de7ce
+  item_date: "2017-08-15 22:30:34"
+  title: Useless Data Comparisons
+  url: http://flowingdata.com/?p=49461
+  domain: flowingdata.com
+  image: ""
+- curated_id: aYdLShI8IM6FbqAIXqvMF6zTdT8MscOoYw0EWDIWJIo=_15decafc0c7:6de691:9cc60c90
+  item_date: "2017-08-16 09:00:32"
+  title: Visualizing Affordable Living in Germany
+  url: https://www.datainnovation.org/?p=7745
+  domain: www.datainnovation.org
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15df3f4d2e3:12007a9:218de7ce
+  item_date: "2017-08-17 23:00:01"
+  title: "Killings of blacks by whites ruled \u201Cjustified\u201D"
+  url: http://flowingdata.com/?p=49491
+  domain: flowingdata.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15df545fc15:13ed5f4:bd5def64
+  item_date: "2017-08-18 05:11:20"
+  title: Catalog of visualization types to find the one that fits your dataset
+  url: http://flowingdata.com/?p=49497
+  domain: flowingdata.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15df7b41631:1761e16:9cc60c90
+  item_date: "2017-08-18 16:09:45"
+  title: Data Viz Project
+  url: http://datavizproject.com/
+  domain: datavizproject.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_15e580e2eca:60258a:9dbe7464
+  item_date: "2017-08-23 12:06:03"
+  title: Most Hated Food
+  url: https://medium.com/p/e86777a2adcb
+  domain: medium.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15e15d36d46:41db259:bd5def64
+  item_date: "2017-08-24 10:46:56"
+  title: Learned Behaviour
+  url: http://bryanmmathers.com/learned-behaviour/
+  domain: bryanmmathers.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15e173995c3:43e38d1:bd5def64
+  item_date: "2017-08-24 17:05:05"
+  title: "Let\u2019s Build a Web App with Vue, Chart.js and an API"
+  url: https://dev.to/apertureless/lets-build-a-web-app-with-vue-chartjs-and-an-api
+  domain: dev.to
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_15e2b579646:27a9:e457444
+  item_date: "2017-08-28 17:14:47"
+  title: "Uber shows off its autonomous driving program\u2019s snazzy visualization
+    tools"
+  url: http://techcrunch.com/?p=1532704
+  domain: techcrunch.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15e344608fd:ae0789:56b346f
+  item_date: "2017-08-30 10:51:12"
+  title: Making Kibana Accessible
+  url: https://www.elastic.co/blog/making-kibana-accessible
+  domain: www.elastic.co
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15e392d7dd2:11a3abc:ed57ae85
+  item_date: "2017-08-31 09:39:38"
+  title: "Using an audience\u2019s own data to highlight both play and security"
+  url: http://flowingdata.com/?p=49585
+  domain: flowingdata.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_15e61ee5152:bf4174:9dbe7464
+  item_date: "2017-09-01 15:11:36"
+  title: Top 150 medium articles related with Big Data, Data Science and Data Visualization.
+  url: https://medium.com/p/803773728ff7
+  domain: medium.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_15e58b2418c:5d1d2:803daed2
+  item_date: "2017-09-03 10:53:57"
+  title: Server
+  url: https://medium.com/p/2604f903389d
+  domain: medium.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15e5601958d:3a0167e:56b346f
+  item_date: "2017-09-06 00:01:47"
+  title: Everyday thresholds visualized in dramatic fashion
+  url: http://flowingdata.com/?p=49616
+  domain: flowingdata.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15e5d75e14a:4631223:56b346f
+  item_date: "2017-09-07 10:42:30"
+  title: Thirty years of hurricanes
+  url: http://flowingdata.com/?p=49628
+  domain: flowingdata.com
+  image: ""
+- curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_15e62e2c669:dd7a17:57a3f9c6
+  item_date: "2017-09-08 12:00:34"
+  title: As Irma nears, GIS data shows Florida emptying itself of planes
+  url: https://arstechnica.com/?p=1161471
+  domain: arstechnica.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15e738c9304:90da799:feeb522d
+  item_date: "2017-09-11 17:45:19"
+  title: "TensorBoard: Visualizing Learning \_"
+  url: https://www.tensorflow.org/get_started/summaries_and_tensorboard
+  domain: www.tensorflow.org
+  image: ""
+- curated_id: dU5peSp0V6f8LsDMUzzgZGqiuFWv2htICdJf6zfcBfc=_15e8155e5a2:63fbd0:64bea9a6
+  item_date: "2017-09-14 09:51:44"
+  title: Watch this beautiful visualization of the sounds of the Amazon rainforest
+  url: https://boingboing.net/?p=545995
+  domain: boingboing.net
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15e84a01634:a9ade3:6ea86031
+  item_date: "2017-09-15 01:17:45"
+  title: Semiotic, a visualization framework
+  url: http://flowingdata.com/?p=49705
+  domain: flowingdata.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15e992a4707:26b671a:4cab23bc
+  item_date: "2017-09-19 00:54:10"
+  title: LEGO color scheme classifications
+  url: http://flowingdata.com/?p=49716
+  domain: flowingdata.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15e9d3b1438:769e4c:55eae650
+  item_date: "2017-09-19 03:38:46"
+  title: The pain of designing and visualizing APIs and how to solve it
+  url: https://medium.com/p/e5822f6f6e49
+  domain: medium.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_15ea03e06e4:b5bd6:803daed2
+  item_date: "2017-09-20 00:35:53"
+  title: JavaScript Visualization Frameworks Review
+  url: https://medium.com/p/f3cccf78ccf0
+  domain: medium.com
+  image: ""
+- curated_id: P6ZHWlrPQ5ILOZ54yDX4aZ046+AnYBvjvT3DdNFTXhQ=_15ea48873c2:370a241:6ea86031
+  item_date: "2017-09-21 06:00:45"
+  title: Netsil Visualizes the Performance of Microservices
+  url: https://thenewstack.io/?p=3106047
+  domain: thenewstack.io
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_15ec3872c65:a5a1f:803daed2
+  item_date: "2017-09-26 13:08:33"
+  title: "Data Visualization \u2014 Experiment 1 \u2014"
+  url: https://medium.com/p/f34a10679b8
+  domain: medium.com
+  image: ""
+- curated_id: MMCA/259PVQgzewWTRJNcvw/8XXvgI6S68GWeJF7z/0=_15ec57833e4:e19d48:55eae650
+  item_date: "2017-09-27 15:28:28"
+  title: Dating app maps where people love and hate the 'take a knee' protests the
+    most
+  url: http://mashable.com/?p=bp-58114
+  domain: mashable.com
+  image: ""
+- curated_id: aYdLShI8IM6FbqAIXqvMF6zTdT8MscOoYw0EWDIWJIo=_15eeeed1f5b:5b8110:c916d446
+  item_date: "2017-09-28 09:00:16"
+  title: Visualizing Different Data Visualizations
+  url: https://www.datainnovation.org/?p=7895
+  domain: www.datainnovation.org
+  image: ""
+- curated_id: +iHpcF+MVmzqHdkw+fLKtN8U+Gs5PfZG9PfuVqz3Jqk=_15edde3aaf8:524945d:e05f56c8
+  item_date: "2017-10-02 09:00:51"
+  title: Kentik APIs Enable Multi
+  url: https://www.kentik.com/?p=7686
+  domain: www.kentik.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15ee077ab5d:1ccd137:feeb522d
+  item_date: "2017-10-02 21:19:13"
+  title: Nine rounds a second sonified
+  url: http://flowingdata.com/?p=49806
+  domain: flowingdata.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15ee85fe99a:61445a:86e95007
+  item_date: "2017-10-04 04:24:04"
+  title: How fake data goes viral
+  url: http://flowingdata.com/?p=49831
+  domain: flowingdata.com
+  image: ""
+- curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_15eedb0e512:3a0384:86e37f75
+  item_date: "2017-10-05 10:55:47"
+  title: Algorithm designer among those honored with the Chemistry Nobel
+  url: https://arstechnica.com/?p=1181457
+  domain: arstechnica.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15ef3285abf:bf8b23:4d363ef0
+  item_date: "2017-10-06 12:20:52"
+  title: In 2017, No More than Five Days Without a Mass Shooting
+  url: http://flowingdata.com/?p=49885
+  domain: flowingdata.com
+  image: ""
+- curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_15ef790a56f:11425a9:4d363ef0
+  item_date: "2017-10-07 08:30:00"
+  title: This map shows where gun dealers outnumber Starbucks locations across the
+    US
+  url: http://www.businessinsider.com/gun-dealers-laws-us-states-starbucks-2017-10?utm_source=feedly&amp;utm_medium=referral
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15efffd84e1:1b654b8:3522b906
+  item_date: "2017-10-09 00:09:07"
+  title: Visualizing nonlinear stories
+  url: http://flowingdata.com/?p=49862
+  domain: flowingdata.com
+  image: ""
+- curated_id: wjs2No5mapCDstg1mHAVMFn+Znsb41UxxPw3Z1zhRpw=_15f07500589:2671669:4d363ef0
+  item_date: "2017-10-10 10:22:09"
+  title: Kibana Dashboard Only Mode
+  url: https://www.elastic.co/blog/kibana-dashboard-only-mode
+  domain: www.elastic.co
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15f0a52a26c:2ae8410:4d363ef0
+  item_date: "2017-10-11 00:15:44"
+  title: Frequency trails chart explainer
+  url: http://flowingdata.com/?p=49870
+  domain: flowingdata.com
+  image: ""
+- curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_15f0d5dbba0:301dcd2:4d363ef0
+  item_date: "2017-10-11 14:16:00"
+  title: 'CHART: A history of recessions around the world'
+  url: http://www.businessinsider.com/recessions-history-around-the-world-2017-10?utm_source=feedly&amp;utm_medium=referral
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15f241ec564:4fa6ef7:3522b906
+  item_date: "2017-10-16 00:35:35"
+  title: Map of Santa Rosa fires
+  url: http://flowingdata.com/?p=49920
+  domain: flowingdata.com
+  image: ""
+- curated_id: dU5peSp0V6f8LsDMUzzgZGqiuFWv2htICdJf6zfcBfc=_15f2aa95075:5a17fd9:3522b906
+  item_date: "2017-10-17 07:02:41"
+  title: Computer
+  url: https://boingboing.net/?p=551569
+  domain: boingboing.net
+  image: ""
+- curated_id: JhuKrkruefD7R9Y1/ZRq+NFCTbJ5kO4rPbit84wixYA=_15f2bb8ae35:4538392:9ac85644
+  item_date: "2017-10-17 07:17:14"
+  title: "Delight Don\u2019t Distract: 3 Tips for Better Data Visualizations"
+  url: https://socrata.com/?p=31374
+  domain: socrata.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15f33be7047:678fc79:4d363ef0
+  item_date: "2017-10-19 01:26:08"
+  title: Mapping happiness
+  url: http://flowingdata.com/?p=49941
+  domain: flowingdata.com
+  image: ""
+- curated_id: 0VTnUfX894TcY5TA/oMFDbEY1bDrlajzsn67Jr80r8M=_15f36a3a5e7:675bea:aa3e42e1
+  item_date: "2017-10-19 14:55:58"
+  title: Adobe tease data visualization storytelling with no coding required
+  url: https://thenextweb.com/?p=1085795
+  domain: thenextweb.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_15f36fbf9b5:70959d:626ab4cd
+  item_date: "2017-10-19 16:32:53"
+  title: Adobe wants to let you draw data visualizations by letting you draw data
+    visualizations
+  url: http://techcrunch.com/?p=1557416
+  domain: techcrunch.com
+  image: ""
+- curated_id: aYdLShI8IM6FbqAIXqvMF6zTdT8MscOoYw0EWDIWJIo=_15f78854ef0:68eb16:3c0bb656
+  item_date: "2017-10-25 09:00:42"
+  title: Visualizing Gender Diversity at the Massachusetts Institute of Technology
+  url: https://www.datainnovation.org/?p=8026
+  domain: www.datainnovation.org
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15f5c9f7c05:a4e7a46:3522b906
+  item_date: "2017-10-26 23:57:09"
+  title: Sorting algorithms visualized with animated color palette
+  url: http://flowingdata.com/?p=50033
+  domain: flowingdata.com
+  image: ""
+- curated_id: xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_15f9229530a:152c675:aa3e42e1
+  item_date: "2017-10-29 09:51:01"
+  title: "Analyzing Markets at Scale \u2014 A Crawling Blueprint"
+  url: https://medium.com/p/b39aeb8725fa
+  domain: medium.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15f6ea7790d:1208a90:3c0bb656
+  item_date: "2017-10-30 11:56:10"
+  title: Charts show time between assaults and public allegations
+  url: http://flowingdata.com/?p=50077
+  domain: flowingdata.com
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15f722c6998:17512ce:541f3c40
+  item_date: "2017-10-31 04:21:03"
+  title: Visual explainer for hierarchical modeling
+  url: http://flowingdata.com/?p=50066
+  domain: flowingdata.com
+  image: ""
+- curated_id: dU5peSp0V6f8LsDMUzzgZGqiuFWv2htICdJf6zfcBfc=_15f73086222:18ce63f:541f3c40
+  item_date: "2017-10-31 08:15:03"
+  title: Animation of an elegant air traffic nightmare caused by a drone
+  url: https://boingboing.net/?p=553736
+  domain: boingboing.net
+  image: ""
+- curated_id: aYdLShI8IM6FbqAIXqvMF6zTdT8MscOoYw0EWDIWJIo=_15fa5f92066:1588048:7157a206
+  item_date: "2017-11-02 09:00:57"
+  title: Visualizing the Rise and Fall of ISIS
+  url: https://www.datainnovation.org/?p=8071
+  domain: www.datainnovation.org
+  image: ""
+- curated_id: 69+I8g7AdPLNdj56CTP/B8vWxQ7n6/VzvvHPQr8J60g=_15f8151147f:42e639:3c0bb656
+  item_date: "2017-11-03 02:56:16"
+  title: Visualization song release
+  url: http://flowingdata.com/?p=50097
+  domain: flowingdata.com
+  image: ""
+- curated_id: 5JqX9UICapOm9YXTnzKIgAA8+Hz1EIPzp0wutAgYmps=_15f8215d1c0:5b171d:3c0bb656
+  item_date: "2017-11-03 06:15:08"
+  title: Interesting Trends Shaping the Future of Data Visualization
+  url: https://www.promptcloud.com/?p=35822
+  domain: www.promptcloud.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15f920a30df:6ed6e6:3c0bb656
+  item_date: "2017-11-06 07:46:55"
+  title: ProPublica Data Institute
+  url: https://projects.propublica.org/graphics/summer
+  domain: projects.propublica.org
+  image: ""
+- curated_id: q2q2EWvhwTr2G72+2bmzQ5IFpAlRi9P7s4CyaWlqDGs=_15f9cfebefc:24a2a98:aa3e42e1
+  item_date: "2017-11-08 10:57:39"
+  title: 'Kubernetes Monitoring: Service Dependencies with Maps and Traces'
+  url: https://medium.com/p/ec708bd14fbe
+  domain: medium.com
   image: ""
 ...
