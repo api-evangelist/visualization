@@ -17,12 +17,6 @@
   url: http://blog.digitalinsights.in/data-visualization-tools/05267687.html
   domain: blog.digitalinsights.in
   image: ""
-- curated_id: 53a1496aae750575d813aa07a0e1cdef
-  item_date: "2015-02-18 00:00:00"
-  title: Startup Offers Live Stock Data Graphics API
-  url: http://www.programmableweb.com/news/startup-offers-live-stock-data-graphics-api/brief/2015/02/18
-  domain: www.programmableweb.com
-  image: ""
 - curated_id: 54721520c09c3ff1d106ff58524f4a12
   item_date: "2015-02-18 00:00:00"
   title: Visual Cloud Organization with Mohiomap
@@ -34,6 +28,12 @@
   title: Learn data visualization and data-driven journalism in a real ?Data Jam?
   url: http://ph.okfn.org/2015/02/18/learn-data-visualization-and-data-driven-journalism-in-a-real-data-jam/
   domain: ph.okfn.org
+  image: ""
+- curated_id: 53a1496aae750575d813aa07a0e1cdef
+  item_date: "2015-02-18 00:00:00"
+  title: Startup Offers Live Stock Data Graphics API
+  url: http://www.programmableweb.com/news/startup-offers-live-stock-data-graphics-api/brief/2015/02/18
+  domain: www.programmableweb.com
   image: ""
 - curated_id: ed467cf186bf279b80d69d3f2635475d
   item_date: "2015-02-19 00:00:00"
@@ -97,17 +97,17 @@
   url: https://blog.openshift.com/visualize-openshift-api-with-swagger/
   domain: blog.openshift.com
   image: ""
-- curated_id: 5cd639ac9a0248b9ff763925ee0a7d76
-  item_date: "2015-03-09 00:00:00"
-  title: Girl Scout cookies differ by region
-  url: http://flowingdata.com/2015/03/09/girl-scout-cookies-differ-by-region/
-  domain: flowingdata.com
-  image: ""
 - curated_id: deab3b9a2788ddd2e1098106488cd6f6
   item_date: "2015-03-09 00:00:00"
   title: 10 Examples of Captivating Data Visualization
   url: http://blog.hubspot.com/marketing/great-data-visualization-examples
   domain: blog.hubspot.com
+  image: ""
+- curated_id: 5cd639ac9a0248b9ff763925ee0a7d76
+  item_date: "2015-03-09 00:00:00"
+  title: Girl Scout cookies differ by region
+  url: http://flowingdata.com/2015/03/09/girl-scout-cookies-differ-by-region/
+  domain: flowingdata.com
   image: ""
 - curated_id: 0e7033cb5b7eb755c54d9d4948f52930
   item_date: "2015-03-10 16:53:37"
@@ -188,17 +188,17 @@
   url: http://blog.silk.co/post/114658890792/sharing-the-silk-data-handbook
   domain: blog.silk.co
   image: ""
-- curated_id: 93c9e093b5ba5b60f5150295e3936acc
-  item_date: "2015-03-30 00:00:00"
-  title: Minimal landscape maps
-  url: http://flowingdata.com/2015/03/30/minimal-landscape-maps/
-  domain: flowingdata.com
-  image: ""
 - curated_id: 1c3c60ac6b04ce7b1ed3320a6a4acf0f
   item_date: "2015-03-30 00:00:00"
   title: Telling Your Data Story
   url: http://radar.oreilly.com/2015/03/telling-your-datas-story.html
   domain: radar.oreilly.com
+  image: ""
+- curated_id: 93c9e093b5ba5b60f5150295e3936acc
+  item_date: "2015-03-30 00:00:00"
+  title: Minimal landscape maps
+  url: http://flowingdata.com/2015/03/30/minimal-landscape-maps/
+  domain: flowingdata.com
   image: ""
 - curated_id: 3afb042b3f0822c6d2ebe1bd3ba035c0
   item_date: "2015-03-30 14:45:53"
@@ -218,12 +218,6 @@
   url: http://flowingdata.com/2015/03/31/a-path-for-redesign-as-critique-in-visualization/
   domain: flowingdata.com
   image: ""
-- curated_id: 2b9f1f5c0c8565cf6081fcf2f4e8e067
-  item_date: "2015-04-02 00:00:00"
-  title: Growth of urban Wal-Mart
-  url: http://flowingdata.com/2015/04/02/growth-of-urban-wal-mart/
-  domain: flowingdata.com
-  image: ""
 - curated_id: 25f8f28fab6b6e1486d76520c4eb254a
   item_date: "2015-04-02 00:00:00"
   title: Data Visualization Throughout History
@@ -235,6 +229,12 @@
   title: Data Mining The City
   url: https://tzuyi.wordpress.com/2015/04/03/data-mining-the-city/
   domain: tzuyi.wordpress.com
+  image: ""
+- curated_id: 2b9f1f5c0c8565cf6081fcf2f4e8e067
+  item_date: "2015-04-02 00:00:00"
+  title: Growth of urban Wal-Mart
+  url: http://flowingdata.com/2015/04/02/growth-of-urban-wal-mart/
+  domain: flowingdata.com
   image: ""
 - curated_id: 5b7fa926368bc0c56ad1fb58b3ff9b5f
   item_date: "2015-04-03 00:00:00"
@@ -266,6 +266,18 @@
   url: http://www.desk.com/blog/are-you-using-the-new-hot-tool-data-visualization/
   domain: www.desk.com
   image: ""
+- curated_id: b8b261804516abba92899f856a5e5a02
+  item_date: "2015-04-21 00:00:00"
+  title: Libraries announces winners for CODE+ART Student visualization contest
+  url: http://news.lib.ncsu.edu/blog/2015/04/21/libraries-announces-winners-for-codeart-student-visualization-contest/
+  domain: news.lib.ncsu.edu
+  image: ""
+- curated_id: 2a6cc5bb738d065c215947c8f3e854e3
+  item_date: "2015-04-21 00:00:00"
+  title: The 14 best data visualization tools
+  url: http://thenextweb.com/dd/2015/04/21/the-14-best-data-visualization-tools/
+  domain: thenextweb.com
+  image: ""
 - curated_id: 3903cc7578b35edeff86803b49df9937
   item_date: "2015-04-21 00:00:00"
   title: DataHero Announces Dual Axis Charts
@@ -278,29 +290,11 @@
   url: https://www.moh.io/mohiomap-blog/announcing-the-public-beta-of-mohiomap-for-box/
   domain: www.moh.io
   image: ""
-- curated_id: 2a6cc5bb738d065c215947c8f3e854e3
-  item_date: "2015-04-21 00:00:00"
-  title: The 14 best data visualization tools
-  url: http://thenextweb.com/dd/2015/04/21/the-14-best-data-visualization-tools/
-  domain: thenextweb.com
-  image: ""
-- curated_id: b8b261804516abba92899f856a5e5a02
-  item_date: "2015-04-21 00:00:00"
-  title: Libraries announces winners for CODE+ART Student visualization contest
-  url: http://news.lib.ncsu.edu/blog/2015/04/21/libraries-announces-winners-for-codeart-student-visualization-contest/
-  domain: news.lib.ncsu.edu
-  image: ""
 - curated_id: dba51bcc527ba93f7fe03868747280d5
   item_date: "2015-04-21 08:35:28"
   title: 'API Craft Boston: Visualizing your APIs with Guest Speakers from Lucybot'
   url: https://www.youtube.com/
   domain: www.youtube.com
-  image: ""
-- curated_id: 54dbc2be6511cf8e06d6f1e3be19437e
-  item_date: "2015-04-22 00:00:00"
-  title: Introducing Data Lens for the Open Data Portal
-  url: http://digital.cityofchicago.org/index.php/introducing-data-lens-for-the-open-data-portal/
-  domain: digital.cityofchicago.org
   image: ""
 - curated_id: 22e8726cdd61867ed2674f27e8a2522f
   item_date: "2015-04-22 00:00:00"
@@ -308,16 +302,22 @@
   url: http://dp.la/info/2015/04/22/esdn/
   domain: dp.la
   image: ""
-- curated_id: c94e36f374645c75bdd2fb7524ab8c7d
-  item_date: "2015-04-24 00:00:00"
-  title: Why exploring big data is hard
-  url: http://flowingdata.com/2015/04/24/why-exploring-big-data-is-hard/
-  domain: flowingdata.com
+- curated_id: 54dbc2be6511cf8e06d6f1e3be19437e
+  item_date: "2015-04-22 00:00:00"
+  title: Introducing Data Lens for the Open Data Portal
+  url: http://digital.cityofchicago.org/index.php/introducing-data-lens-for-the-open-data-portal/
+  domain: digital.cityofchicago.org
   image: ""
 - curated_id: 1a3bd108f9586e29a45996e5eb4acaa7
   item_date: "2015-04-24 00:00:00"
   title: Emptied reservoirs in California
   url: http://flowingdata.com/2015/04/24/emptied-reservoirs-in-california/
+  domain: flowingdata.com
+  image: ""
+- curated_id: c94e36f374645c75bdd2fb7524ab8c7d
+  item_date: "2015-04-24 00:00:00"
+  title: Why exploring big data is hard
+  url: http://flowingdata.com/2015/04/24/why-exploring-big-data-is-hard/
   domain: flowingdata.com
   image: ""
 - curated_id: 813574e7b945c96b3126b0c6cba7f572
@@ -428,16 +428,16 @@
   url: http://www.motherjones.com/politics/2015/05/weed-map
   domain: www.motherjones.com
   image: ""
-- curated_id: 7d5c181a400631278e743504efb7015d
-  item_date: "2015-05-28 00:00:00"
-  title: Compare your curve to reality for income versus college attendance
-  url: http://flowingdata.com/2015/05/28/compare-your-curve-to-reality-for-income-percentile-versus-college-attendance/
-  domain: flowingdata.com
-  image: ""
 - curated_id: 731a16ac346ed3ad1ae1c10f51b8af97
   item_date: "2015-05-28 00:00:00"
   title: Size of Minecraft
   url: http://flowingdata.com/2015/05/28/size-of-minecraft/
+  domain: flowingdata.com
+  image: ""
+- curated_id: 7d5c181a400631278e743504efb7015d
+  item_date: "2015-05-28 00:00:00"
+  title: Compare your curve to reality for income versus college attendance
+  url: http://flowingdata.com/2015/05/28/compare-your-curve-to-reality-for-income-percentile-versus-college-attendance/
   domain: flowingdata.com
   image: ""
 - curated_id: cfe248f0123ecf371438d359f1a3926a
@@ -464,6 +464,12 @@
   url: http://flowingdata.com/2015/06/08/a-color-analysis-of-western-films/
   domain: flowingdata.com
   image: ""
+- curated_id: f3796be92af46b9ac43c3dd3245d2fc9
+  item_date: "2015-06-09 00:00:00"
+  title: Length of the average master?s thesis
+  url: http://flowingdata.com/2015/06/09/length-of-the-average-masters-thesis/
+  domain: flowingdata.com
+  image: ""
 - curated_id: fa48cf3286a68f7821703575d4980bb1
   item_date: "2015-06-09 00:00:00"
   title: See Your Data
@@ -476,11 +482,11 @@
   url: http://flowingdata.com/2015/06/09/reddit-button-ends-along-with-the-click-data/
   domain: flowingdata.com
   image: ""
-- curated_id: f3796be92af46b9ac43c3dd3245d2fc9
-  item_date: "2015-06-09 00:00:00"
-  title: Length of the average master?s thesis
-  url: http://flowingdata.com/2015/06/09/length-of-the-average-masters-thesis/
-  domain: flowingdata.com
+- curated_id: 665c111f17559b01c2b9aab3b3541662
+  item_date: "2015-06-10 00:00:00"
+  title: Visualizing Your MailChimp Data With Microsoft?s Power BI
+  url: http://blog.mailchimp.com/visualizing-your-mailchimp-data-with-microsofts-power-bi/
+  domain: blog.mailchimp.com
   image: ""
 - curated_id: 85cc5c251668493cc20574e2f5f4344c
   item_date: "2015-06-10 00:00:00"
@@ -488,22 +494,10 @@
   url: http://keenio.tumblr.com/post/121192283076/how-i-visualize-my-time-spent-programming#_=_
   domain: keenio.tumblr.com
   image: ""
-- curated_id: 665c111f17559b01c2b9aab3b3541662
-  item_date: "2015-06-10 00:00:00"
-  title: Visualizing Your MailChimp Data With Microsoft?s Power BI
-  url: http://blog.mailchimp.com/visualizing-your-mailchimp-data-with-microsofts-power-bi/
-  domain: blog.mailchimp.com
-  image: ""
 - curated_id: 66ba9f8bb719479e18d7d8055d4fded3
   item_date: "2015-06-11 00:00:00"
   title: Oldest person in the world keeps dying
   url: http://flowingdata.com/2015/06/11/oldest-person-in-the-world-keeps-dying/
-  domain: flowingdata.com
-  image: ""
-- curated_id: 2695178fea9f575dd04e3bb17c3fc178
-  item_date: "2015-06-12 00:00:00"
-  title: On visualizing data well
-  url: http://flowingdata.com/2015/06/12/on-visualizing-data-well/
   domain: flowingdata.com
   image: ""
 - curated_id: d23361a8dd37a14c44481dc33faf9d2a
@@ -511,6 +505,12 @@
   title: 20 best JavaScript chart libraries
   url: http://thenextweb.com/dd/2015/06/12/20-best-javascript-chart-libraries/
   domain: thenextweb.com
+  image: ""
+- curated_id: 2695178fea9f575dd04e3bb17c3fc178
+  item_date: "2015-06-12 00:00:00"
+  title: On visualizing data well
+  url: http://flowingdata.com/2015/06/12/on-visualizing-data-well/
+  domain: flowingdata.com
   image: ""
 - curated_id: c6541cd4dbd7fe109d108e02632ae49b
   item_date: "2015-06-14 00:00:00"
@@ -554,29 +554,23 @@
   url: http://flowingdata.com/2015/06/22/excel-heat-map-hack/
   domain: flowingdata.com
   image: ""
-- curated_id: fd579a56eb6f1373539ece6f1e6006a2
-  item_date: "2015-06-23 00:00:00"
-  title: Real-Time Gauge with ChartJS and Spike-Engine
-  url: http://www.codeproject.com/Articles/650175/Real-Time-Gauge-with-ChartJS-and-Spike-Engine
-  domain: www.codeproject.com
-  image: ""
 - curated_id: 616d1b372e70233e5cda8eee75924f32
   item_date: "2015-06-23 00:00:00"
   title: 'Data Visualizations: Could They Save Bristol Bay?'
   url: http://www.socrata.com/blog/data-visualizations-could-they-save-bristol-bay/
   domain: www.socrata.com
   image: ""
+- curated_id: fd579a56eb6f1373539ece6f1e6006a2
+  item_date: "2015-06-23 00:00:00"
+  title: Real-Time Gauge with ChartJS and Spike-Engine
+  url: http://www.codeproject.com/Articles/650175/Real-Time-Gauge-with-ChartJS-and-Spike-Engine
+  domain: www.codeproject.com
+  image: ""
 - curated_id: 22c3824455063fd4d17d36550fcf8992
   item_date: "2015-06-24 00:00:00"
   title: Visualizations of Continuous Delivery
   url: http://blog.loadimpact.com/continuous-delivery/visualizations-of-continuous-delivery/
   domain: blog.loadimpact.com
-  image: ""
-- curated_id: db4fbf2345828b3b8ee913544296bd9b
-  item_date: "2015-06-25 00:00:00"
-  title: Dome9 Debuts Security Visualization for AWS CloudFormation Templates
-  url: http://www.dome9.com/press-center/dome9-debuts-security-visualization-for-aws-cloudformation-templates
-  domain: www.dome9.com
   image: ""
 - curated_id: 01c5e8b99ec66bf35d9b38b776f5063e
   item_date: "2015-06-25 00:00:00"
@@ -585,11 +579,11 @@
   url: http://www.infoq.com/presentations/d3-chart
   domain: www.infoq.com
   image: ""
-- curated_id: 5c6e920afae831f062eb993b1ba914dc
-  item_date: "2015-06-26 00:00:00"
-  title: Flot chart using AngularJS, Web API and Json
-  url: http://www.codeproject.com/Articles/999981/Flot-chart-using-AngularJS-Web-API-and-Json
-  domain: www.codeproject.com
+- curated_id: db4fbf2345828b3b8ee913544296bd9b
+  item_date: "2015-06-25 00:00:00"
+  title: Dome9 Debuts Security Visualization for AWS CloudFormation Templates
+  url: http://www.dome9.com/press-center/dome9-debuts-security-visualization-for-aws-cloudformation-templates
+  domain: www.dome9.com
   image: ""
 - curated_id: 1349fd249b7a03c16b1e02d2ee57316d
   item_date: "2015-06-26 00:00:00"
@@ -602,6 +596,12 @@
   title: Drought report cards for California water districts
   url: http://flowingdata.com/2015/06/26/drought-report-cards-for-california-water-districts/
   domain: flowingdata.com
+  image: ""
+- curated_id: 5c6e920afae831f062eb993b1ba914dc
+  item_date: "2015-06-26 00:00:00"
+  title: Flot chart using AngularJS, Web API and Json
+  url: http://www.codeproject.com/Articles/999981/Flot-chart-using-AngularJS-Web-API-and-Json
+  domain: www.codeproject.com
   image: ""
 - curated_id: c29c87311b79162c32838daf7c99c100
   item_date: "2015-06-29 00:00:00"
@@ -627,12 +627,11 @@
   url: http://paperity.org/p/73476294/navicell-web-service-for-network-based-data-visualization
   domain: paperity.org
   image: ""
-- curated_id: ff8dd7ff320fd689690fbbf163830691
+- curated_id: 1dcfa373cc2740434067713e57ef8c37
   item_date: "2015-07-07 00:00:00"
-  title: Create a quiz application with Google Sheets, APISpark, Streamdata.io and
-    D3.JS
-  url: http://restlet.com/blog/2015/07/07/create-a-quiz-application-with-google-sheets-apispark-streamdata-io-and-d3-js/
-  domain: restlet.com
+  title: Visualising your Google Analytics data in Dataseed
+  url: http://blog.getdataseed.com/post/123452278642/visualising-your-google-analytics-data-in-dataseed#_=_
+  domain: blog.getdataseed.com
   image: ""
 - curated_id: 74a0bacdfb52fe1ec42f260800194374
   item_date: "2015-07-07 00:00:00"
@@ -640,11 +639,12 @@
   url: http://heidloff.net/nh/home.nsf/article.xsp
   domain: heidloff.net
   image: ""
-- curated_id: 1dcfa373cc2740434067713e57ef8c37
+- curated_id: ff8dd7ff320fd689690fbbf163830691
   item_date: "2015-07-07 00:00:00"
-  title: Visualising your Google Analytics data in Dataseed
-  url: http://blog.getdataseed.com/post/123452278642/visualising-your-google-analytics-data-in-dataseed#_=_
-  domain: blog.getdataseed.com
+  title: Create a quiz application with Google Sheets, APISpark, Streamdata.io and
+    D3.JS
+  url: http://restlet.com/blog/2015/07/07/create-a-quiz-application-with-google-sheets-apispark-streamdata-io-and-d3-js/
+  domain: restlet.com
   image: ""
 - curated_id: 862c95b77945dccfe664f8b5488280b4
   item_date: "2015-07-08 00:00:00"
@@ -652,18 +652,18 @@
   url: http://blog.silk.co/post/123576055557/how-to-prepare-an-excel-spreadsheet-for-data#_=_
   domain: blog.silk.co
   image: ""
+- curated_id: 1b23708e06bbc68ffda8655fad906a43
+  item_date: "2015-07-09 00:00:00"
+  title: The Future of Data Visualization
+  url: https://datahero.com/blog/2015/07/09/the-future-of-data-visualization/
+  domain: datahero.com
+  image: ""
 - curated_id: 3877f583b78fbbe44566f4fca64a15ed
   item_date: "2015-07-09 00:00:00"
   title: Visualizing Medicare Physician Co-Occurrence  Payment Data Geographically
     - Part 1
   url: https://blog.pokitdok.com/visualizing-medicare-physician-co-occurrence-payment-data-geographically/
   domain: blog.pokitdok.com
-  image: ""
-- curated_id: 1b23708e06bbc68ffda8655fad906a43
-  item_date: "2015-07-09 00:00:00"
-  title: The Future of Data Visualization
-  url: https://datahero.com/blog/2015/07/09/the-future-of-data-visualization/
-  domain: datahero.com
   image: ""
 - curated_id: 8164c3e780e251365acedb2369b98b60
   item_date: "2015-07-09 17:59:01"
@@ -695,11 +695,11 @@
   url: http://flowingdata.com/2015/08/13/fitbit-during-sex/
   domain: flowingdata.com
   image: ""
-- curated_id: 512a09710d57dce86927e628d5664d7d
+- curated_id: 7de271da3ca451f2f3a7eb7f19472a8e
   item_date: "2015-08-19 00:00:00"
-  title: Nuclear detonations from 1945 to present
-  url: http://flowingdata.com/2015/08/19/nuclear-detonations-from-1945-to-present/
-  domain: flowingdata.com
+  title: 'Analyzing Data: Eleven Graphs You Should See About The Death Penalty'
+  url: http://blog.plot.ly/post/127132206092/analyzing-data-eighteen-graphs-about-the-death#_=_
+  domain: blog.plot.ly
   image: ""
 - curated_id: 9b4c089cee88b3255bf44ca258bc0a73
   item_date: "2015-08-19 00:00:00"
@@ -708,11 +708,11 @@
   url: http://www.businessinsider.com/ashley-madison-data-chart-of-cheaters-2015-8
   domain: www.businessinsider.com
   image: ""
-- curated_id: 7de271da3ca451f2f3a7eb7f19472a8e
+- curated_id: 512a09710d57dce86927e628d5664d7d
   item_date: "2015-08-19 00:00:00"
-  title: 'Analyzing Data: Eleven Graphs You Should See About The Death Penalty'
-  url: http://blog.plot.ly/post/127132206092/analyzing-data-eighteen-graphs-about-the-death#_=_
-  domain: blog.plot.ly
+  title: Nuclear detonations from 1945 to present
+  url: http://flowingdata.com/2015/08/19/nuclear-detonations-from-1945-to-present/
+  domain: flowingdata.com
   image: ""
 - curated_id: bd4d56e465c1e51295e8454efcee5aa7
   item_date: "2015-08-20 00:00:00"
@@ -757,18 +757,18 @@
   url: http://colah.github.io/posts/2015-09-Visual-Information/
   domain: colah.github.io
   image: ""
+- curated_id: 89a7526f41fe511f126b771fb0ed03a4
+  item_date: "2015-10-20 00:00:00"
+  title: 'Video: CloverETL and the Tableau Web Data Connector'
+  url: http://www.cloveretl.com/blog/cloveretl-tableau-web-data-connector/
+  domain: www.cloveretl.com
+  image: ""
 - curated_id: 49d0618745af455d595ea0dd23799b76
   item_date: "2015-10-20 00:00:00"
   title: How SearchBlox Enables Different Data Sources to be Indexed in Elasticsearch
     and Visualized for Analysis With Kibana
   url: http://www.searchblox.com/how-searchblox-enables-different-data-sources-to-be-indexed-in-elasticsearch-and-visualized-for-analysis-with-kibana
   domain: www.searchblox.com
-  image: ""
-- curated_id: 89a7526f41fe511f126b771fb0ed03a4
-  item_date: "2015-10-20 00:00:00"
-  title: 'Video: CloverETL and the Tableau Web Data Connector'
-  url: http://www.cloveretl.com/blog/cloveretl-tableau-web-data-connector/
-  domain: www.cloveretl.com
   image: ""
 - curated_id: be1203cf1255b05258c918710b9af1b2
   item_date: "2015-10-22 17:48:01"
@@ -863,16 +863,16 @@
   url: https://killscreen.com/articles/classic-videogame-worlds-reimagined-as-subway-maps/
   domain: killscreen.com
   image: ""
-- curated_id: 7453bfccf1211f19e48d99eeef6d3d74
-  item_date: "2016-01-31 00:00:00"
-  title: Visualizing Search Keyword Overlap
-  url: https://dzone.com/articles/visualizing-search-keyword-overlap
-  domain: dzone.com
-  image: ""
 - curated_id: b36b342afc18fb053c3bfaa7b04cf73a
   item_date: "2016-01-31 00:00:00"
   title: Creating Interactive Charts Using jQuery
   url: https://dzone.com/articles/creating-interactive-charts-using-jquery
+  domain: dzone.com
+  image: ""
+- curated_id: 7453bfccf1211f19e48d99eeef6d3d74
+  item_date: "2016-01-31 00:00:00"
+  title: Visualizing Search Keyword Overlap
+  url: https://dzone.com/articles/visualizing-search-keyword-overlap
   domain: dzone.com
   image: ""
 - curated_id: f72bd34c10c228ab6ff521cacde8028c
@@ -887,16 +887,16 @@
   url: http://www.zdnet.com/article/tableau-sees-some-softness-in-spending-amid-strong-q4/#ftag=RSSbaffb68
   domain: www.zdnet.com
   image: ""
-- curated_id: 4dbfa39251c945ac39e6eec9bffda285
-  item_date: "2016-02-10 00:00:00"
-  title: 'Members Only: How to Make an Interactive Stacked Area Chart'
-  url: http://flowingdata.com/2016/02/10/how-to-make-an-interactive-stacked-area-chart/
-  domain: flowingdata.com
-  image: ""
 - curated_id: 6c8d82105c3507a10a143ef228691092
   item_date: "2016-02-10 00:00:00"
   title: Suite of data tools for beginners, focused on fun
   url: http://flowingdata.com/2016/02/10/suite-of-data-tools-for-beginners-focused-on-fun/
+  domain: flowingdata.com
+  image: ""
+- curated_id: 4dbfa39251c945ac39e6eec9bffda285
+  item_date: "2016-02-10 00:00:00"
+  title: 'Members Only: How to Make an Interactive Stacked Area Chart'
+  url: http://flowingdata.com/2016/02/10/how-to-make-an-interactive-stacked-area-chart/
   domain: flowingdata.com
   image: ""
 - curated_id: f5b323f03ab63c3ff7707fd56fa92258
@@ -954,23 +954,17 @@
   url: https://free.law/2016/02/22/our-newest-launch-a-scotus-data-viz-tool/
   domain: free.law
   image: ""
-- curated_id: f091361a841ac73ee245d045132d833a
-  item_date: "2016-02-25 00:00:00"
-  title: Dynamic Graphs with D3.js
-  url: http://blog.pusher.com/dynamic-graphs-with-d3-js/
-  domain: blog.pusher.com
-  image: ""
 - curated_id: e0a4fcc329c1443c2341650e1027fe7c
   item_date: "2016-02-25 00:00:00"
   title: Dynamic Graphs with D3.js
   url: https://blog.pusher.com/dynamic-graphs-with-d3-js/
   domain: blog.pusher.com
   image: ""
-- curated_id: 7f3ee6674d0deb4be9f294f8a6fe047d
-  item_date: "2016-02-26 00:00:00"
-  title: Plotting Reddit Post Frequencies with D3
-  url: https://dzone.com/articles/plotting-reddit-post-frequencies-with-d3
-  domain: dzone.com
+- curated_id: f091361a841ac73ee245d045132d833a
+  item_date: "2016-02-25 00:00:00"
+  title: Dynamic Graphs with D3.js
+  url: http://blog.pusher.com/dynamic-graphs-with-d3-js/
+  domain: blog.pusher.com
   image: ""
 - curated_id: 2d6b44ef06bdb5d44e1a1c5fed2bef07
   item_date: "2016-02-26 00:00:00"
@@ -978,17 +972,23 @@
   url: http://blog.justgiving.com/heat-mapping-a-guide-to-creating-your-own-visual-data-visualisation/
   domain: blog.justgiving.com
   image: ""
-- curated_id: bc2baf7fcafaede3e2f1ba571930141b
-  item_date: "2016-03-01 00:00:00"
-  title: MongoDB Collection simplifies your search and visualization
-  url: http://www.searchblox.com/mongodb-collection-simplifies-your-search-and-visualization
-  domain: www.searchblox.com
+- curated_id: 7f3ee6674d0deb4be9f294f8a6fe047d
+  item_date: "2016-02-26 00:00:00"
+  title: Plotting Reddit Post Frequencies with D3
+  url: https://dzone.com/articles/plotting-reddit-post-frequencies-with-d3
+  domain: dzone.com
   image: ""
 - curated_id: 12beb345aac84613ae7c1e5507a8f079
   item_date: "2016-03-01 00:00:00"
   title: ""
   url: http://www.codeproject.com/Articles/1082105/Visual-Modeling-Made-Easy-with-the-RASON-API-and-D
   domain: www.codeproject.com
+  image: ""
+- curated_id: bc2baf7fcafaede3e2f1ba571930141b
+  item_date: "2016-03-01 00:00:00"
+  title: MongoDB Collection simplifies your search and visualization
+  url: http://www.searchblox.com/mongodb-collection-simplifies-your-search-and-visualization
+  domain: www.searchblox.com
   image: ""
 - curated_id: c794d5c8763369a74f7046365c899bc6
   item_date: "2016-03-03 00:00:00"
@@ -1020,6 +1020,12 @@
   url: https://dzone.com/articles/animating-with-react-redux-and-d3
   domain: dzone.com
   image: ""
+- curated_id: 3a51eb98e94f1202997a76f458c21362
+  item_date: "2016-03-24 00:00:00"
+  title: ZoomTimeline - Visual Composer Timeline Pack (Add-ons)
+  url: http://codecanyon.net/item/zoomtimeline-visual-composer-timeline-pack/15460400
+  domain: codecanyon.net
+  image: ""
 - curated_id: 280665ea56b7aa3f394d907f0f621849
   item_date: "2016-03-24 00:00:00"
   title: 'Beam ? Tell your stories with beautiful charts '
@@ -1031,12 +1037,6 @@
   title: Visualization Books in the Queue
   url: http://flowingdata.com/2016/03/24/visualization-books-in-the-queue/
   domain: flowingdata.com
-  image: ""
-- curated_id: 3a51eb98e94f1202997a76f458c21362
-  item_date: "2016-03-24 00:00:00"
-  title: ZoomTimeline - Visual Composer Timeline Pack (Add-ons)
-  url: http://codecanyon.net/item/zoomtimeline-visual-composer-timeline-pack/15460400
-  domain: codecanyon.net
   image: ""
 - curated_id: 33f6b143faea3b454c5f77bf6938ff4f
   item_date: "2016-03-24 16:00:47"
@@ -1068,17 +1068,17 @@
   url: http://sunlightfoundation.com/blog/2016/04/06/data-usa-sets-a-new-bar-for-informing-the-public-through-data-visualizations/
   domain: sunlightfoundation.com
   image: ""
-- curated_id: 7f035fb66434f4e86e8f5376b065f687
-  item_date: "2016-04-07 00:00:00"
-  title: Google Drive Integration is Here!
-  url: https://www.gliffy.com/blog/2016/04/07/google-drive-integration-is-here/
-  domain: www.gliffy.com
-  image: ""
 - curated_id: cd454124bd2a9010b5821de09fa33c1a
   item_date: "2016-04-07 00:00:00"
   title: Treating visualization as a process
   url: http://flowingdata.com/2016/04/07/treating-visualization-as-a-process/
   domain: flowingdata.com
+  image: ""
+- curated_id: 7f035fb66434f4e86e8f5376b065f687
+  item_date: "2016-04-07 00:00:00"
+  title: Google Drive Integration is Here!
+  url: https://www.gliffy.com/blog/2016/04/07/google-drive-integration-is-here/
+  domain: www.gliffy.com
   image: ""
 - curated_id: bbdc1ac79351bf5108a7ebfb898acf38
   item_date: "2016-04-08 00:00:00"
@@ -1122,17 +1122,17 @@
   url: http://flowingdata.com/2016/04/19/interconnectedness-of-the-galaxies/
   domain: flowingdata.com
   image: ""
-- curated_id: 95f39f124b52e72a813c5b316b551ec1
-  item_date: "2016-04-25 00:00:00"
-  title: Above All Else Show the Data
-  url: http://blog.plot.ly/post/143370337552/above-all-else-show-the-data#_=_
-  domain: blog.plot.ly
-  image: ""
 - curated_id: acb853353653dd8ad8a4933be1535b86
   item_date: "2016-04-25 00:00:00"
   title: Here?s how a neural network works
   url: http://flowingdata.com/2016/04/25/heres-how-a-neural-network-works/
   domain: flowingdata.com
+  image: ""
+- curated_id: 95f39f124b52e72a813c5b316b551ec1
+  item_date: "2016-04-25 00:00:00"
+  title: Above All Else Show the Data
+  url: http://blog.plot.ly/post/143370337552/above-all-else-show-the-data#_=_
+  domain: blog.plot.ly
   image: ""
 - curated_id: 382edd4c9ce772a5d2874d935d33504d
   item_date: "2016-04-26 00:00:00"
@@ -1152,17 +1152,17 @@
   url: http://blog.silk.co/post/143527419532/tools-for-data-visualization-part-2-cleaning-data#_=_
   domain: blog.silk.co
   image: ""
-- curated_id: 9b5ca5c33cb18a581ef4b6f1ea287248
-  item_date: "2016-05-02 00:00:00"
-  title: How to Optimize and Visualize Your Security Groups
-  url: https://blogs.aws.amazon.com/security/post/Tx246GOZNFIW79N/How-to-Optimize-and-Visualize-Your-Security-Groups
-  domain: blogs.aws.amazon.com
-  image: ""
 - curated_id: 2df8c25df9249fa011be159d5b993bd7
   item_date: "2016-05-02 00:00:00"
   title: School district spending, against national average
   url: http://flowingdata.com/2016/05/02/school-district-spending-against-national-average/
   domain: flowingdata.com
+  image: ""
+- curated_id: 9b5ca5c33cb18a581ef4b6f1ea287248
+  item_date: "2016-05-02 00:00:00"
+  title: How to Optimize and Visualize Your Security Groups
+  url: https://blogs.aws.amazon.com/security/post/Tx246GOZNFIW79N/How-to-Optimize-and-Visualize-Your-Security-Groups
+  domain: blogs.aws.amazon.com
   image: ""
 - curated_id: 94330daf77e5f53c895f85676db0c3a0
   item_date: "2016-05-03 14:50:20"
@@ -1188,17 +1188,17 @@
   url: http://www.itbusinessedge.com/blogs/it-unmasked/zoomdata-taps-into-microservices-for-data-visualization.html
   domain: www.itbusinessedge.com
   image: ""
-- curated_id: d4c0170cd958692d76e43311237d47cc
-  item_date: "2016-05-12 00:00:00"
-  title: 'Barchart Announces Real-time, Event-based Financial API '
-  url: http://www.programmableweb.com/news/barchart-announces-real-time-event-based-financial-api/brief/2016/05/12
-  domain: www.programmableweb.com
-  image: ""
 - curated_id: 59dc433e9499450d7cf2ccfc0984fd08
   item_date: "2016-05-12 00:00:00"
   title: Atlas ? Eye-opening charts and data, powered by Quartz ??
   url: https://www.theatlas.com/
   domain: www.theatlas.com
+  image: ""
+- curated_id: d4c0170cd958692d76e43311237d47cc
+  item_date: "2016-05-12 00:00:00"
+  title: 'Barchart Announces Real-time, Event-based Financial API '
+  url: http://www.programmableweb.com/news/barchart-announces-real-time-event-based-financial-api/brief/2016/05/12
+  domain: www.programmableweb.com
   image: ""
 - curated_id: 9fa31bfe1895bcc5dcecb4262e6ebd8f
   item_date: "2016-05-13 00:00:00"
@@ -1218,17 +1218,17 @@
   url: https://dzone.com/articles/visualizing-algorithms-before-implementation
   domain: dzone.com
   image: ""
-- curated_id: 4048a1951f2f1c1babfac660ecc1d326
-  item_date: "2016-06-06 00:00:00"
-  title: Best practices for Tableau Server on Google Compute Engine
-  url: https://cloudplatform.googleblog.com/2016/06/best-practices-for-Tableau-Server-on-Google-Compute-Engine.html
-  domain: cloudplatform.googleblog.com
-  image: ""
 - curated_id: 28a0bb2ab7d67b2abe312c64a320976f
   item_date: "2016-06-06 00:00:00"
   title: 17 Data Visualization Tools  Resources You Should Bookmark
   url: http://blog.hubspot.com/marketing/data-visualization-resources
   domain: blog.hubspot.com
+  image: ""
+- curated_id: 4048a1951f2f1c1babfac660ecc1d326
+  item_date: "2016-06-06 00:00:00"
+  title: Best practices for Tableau Server on Google Compute Engine
+  url: https://cloudplatform.googleblog.com/2016/06/best-practices-for-Tableau-Server-on-Google-Compute-Engine.html
+  domain: cloudplatform.googleblog.com
   image: ""
 - curated_id: 04ed5f8b7c0d86c10c109865b00053c8
   item_date: "2016-06-07 00:00:00"
@@ -1296,17 +1296,17 @@
   url: http://flowingdata.com/2016/07/26/grid-map-shows-shifting-states/
   domain: flowingdata.com
   image: ""
-- curated_id: cc0dfd0450ec440093f82bfd0662debf
-  item_date: "2016-08-02 00:00:00"
-  title: An interactive look at handwriting recognition from 1960s
-  url: http://flowingdata.com/2016/08/02/an-interactive-look-at-handwriting-recognition-from-1960s/
-  domain: flowingdata.com
-  image: ""
 - curated_id: 035d7dbb9874ead343b633a42a3c7f84
   item_date: "2016-08-02 00:00:00"
   title: Here Are 7 Terrifying Charts That Show Exactly What We?re Doing to the Planet
   url: http://www.motherjones.com/environment/2016/08/noaa-state-climate
   domain: www.motherjones.com
+  image: ""
+- curated_id: cc0dfd0450ec440093f82bfd0662debf
+  item_date: "2016-08-02 00:00:00"
+  title: An interactive look at handwriting recognition from 1960s
+  url: http://flowingdata.com/2016/08/02/an-interactive-look-at-handwriting-recognition-from-1960s/
+  domain: flowingdata.com
   image: ""
 - curated_id: b02555564daa316ef527d62a6d98ce87
   item_date: "2016-08-03 00:00:00"
@@ -1352,17 +1352,17 @@
   url: http://my.nps.edu/documents/104382430/104582406/DTNA+White+Paper/0e0815d7-5a85-40df-9770-85ae22f80094
   domain: my.nps.edu
   image: ""
-- curated_id: b008f09edfe98f9254a357d5b2b13b21
-  item_date: "2016-09-30 00:00:00"
-  title: Tableau API Suite Enables In-App Data Analytics, Visualizations, and Experiences
-  url: http://www.programmableweb.com/news/tableau-api-suite-enables-app-data-analytics-visualizations-and-experiences/brief/2016/09/30
-  domain: www.programmableweb.com
-  image: ""
 - curated_id: a06ffcf91740b597362021b42551b4c3
   item_date: "2016-09-30 00:00:00"
   title: Tableau 10 Gets New APIs
   url: http://www.outlookseries.com/A0976/Infrastructure/3453_Tableau_10_New_APIs.htm
   domain: www.outlookseries.com
+  image: ""
+- curated_id: b008f09edfe98f9254a357d5b2b13b21
+  item_date: "2016-09-30 00:00:00"
+  title: Tableau API Suite Enables In-App Data Analytics, Visualizations, and Experiences
+  url: http://www.programmableweb.com/news/tableau-api-suite-enables-app-data-analytics-visualizations-and-experiences/brief/2016/09/30
+  domain: www.programmableweb.com
   image: ""
 - curated_id: 8ecf761a5e438c0cdcccd760253ff060
   item_date: "2016-10-04 13:34:44"
@@ -1376,17 +1376,17 @@
   url: http://flowingdata.com/2016/10/05/classical-music-visualized/
   domain: flowingdata.com
   image: ""
-- curated_id: 37b2a4f65859fc3c9a79163a72c77c7e
-  item_date: "2016-10-07 00:00:00"
-  title: Learning R Versus d3.js for Visualization
-  url: http://flowingdata.com/2016/10/07/learning-r-versus-d3-js-for-visualization/
-  domain: flowingdata.com
-  image: ""
 - curated_id: 7a8d66d2c7f2f780ab0c842df59dba58
   item_date: "2016-10-07 00:00:00"
   title: Five years of American drought, visualized
   url: http://boingboing.net/2016/10/07/five-years-of-american-drought.html
   domain: boingboing.net
+  image: ""
+- curated_id: 37b2a4f65859fc3c9a79163a72c77c7e
+  item_date: "2016-10-07 00:00:00"
+  title: Learning R Versus d3.js for Visualization
+  url: http://flowingdata.com/2016/10/07/learning-r-versus-d3-js-for-visualization/
+  domain: flowingdata.com
   image: ""
 - curated_id: 69cda1c9f8835b7899c9e67ddc184e8b
   item_date: "2016-10-10 19:38:53"
@@ -1516,17 +1516,17 @@
   url: http://jobs.climber.com/jobs/Information-Technology/Lexington-MA-00745-USA/Cyber-Visualization-Developer/212957439
   domain: jobs.climber.com
   image: ""
-- curated_id: ae321686bd1b31a1f01e283439a86657
-  item_date: "2017-02-28 00:00:00"
-  title: Data visualization helps us untangle the complexity of cities
-  url: http://360.here.com/2017/02/28/data-visualization-helps-us-untangle-complexity-cities/
-  domain: 360.here.com
-  image: ""
 - curated_id: f6f03ff36b4bd28ec2409b635f5e0840
   item_date: "2017-02-28 00:00:00"
   title: Reflect drops public beta to power developer-first data visualization
   url: https://techcrunch.com/2017/02/28/reflect-drops-public-beta-to-power-developer-first-data-visualization/
   domain: techcrunch.com
+  image: ""
+- curated_id: ae321686bd1b31a1f01e283439a86657
+  item_date: "2017-02-28 00:00:00"
+  title: Data visualization helps us untangle the complexity of cities
+  url: http://360.here.com/2017/02/28/data-visualization-helps-us-untangle-complexity-cities/
+  domain: 360.here.com
   image: ""
 - curated_id: b30c2165a61658cb5f98873f39dd0196
   item_date: "2017-03-16 00:00:00"
@@ -1754,17 +1754,17 @@
   url: http://flowingdata.com/?p=49183
   domain: flowingdata.com
   image: ""
-- curated_id: aYdLShI8IM6FbqAIXqvMF6zTdT8MscOoYw0EWDIWJIo=_15d6187fabf:9de297:8fa6dd97
-  item_date: "2017-07-19 09:00:51"
-  title: Visualizing the Next 100 Years of Solar Eclipses
-  url: https://www.datainnovation.org/?p=7627
-  domain: www.datainnovation.org
-  image: ""
 - curated_id: aYdLShI8IM6FbqAIXqvMF6zTdT8MscOoYw0EWDIWJIo=_15debe076b9:5af739:218de7ce
   item_date: "2017-07-19 09:00:51"
   title: Visualizing the Next 100 Years of Solar Eclipses
   url: http://dev-center-for-data-innovation.pantheonsite.io/?p=7627
   domain: dev-center-for-data-innovation.pantheonsite.io
+  image: ""
+- curated_id: aYdLShI8IM6FbqAIXqvMF6zTdT8MscOoYw0EWDIWJIo=_15d6187fabf:9de297:8fa6dd97
+  item_date: "2017-07-19 09:00:51"
+  title: Visualizing the Next 100 Years of Solar Eclipses
+  url: https://www.datainnovation.org/?p=7627
+  domain: www.datainnovation.org
   image: ""
 - curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15d721a0391:1e74aff:9493fdce
   item_date: "2017-07-19 12:03:34"
