@@ -1,0 +1,143 @@
+{
+  "$schema": "https://json-structure.org/meta/core/v0/#",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/visualization/refs/heads/main/json-structure/visualization-chart-spec-structure.json",
+  "name": "ChartSpec",
+  "description": "A portable specification describing a single chart or visualization, including its type, data source, encodings, and rendering options.",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Human-readable name of the chart.",
+      "example": "Monthly Revenue by Region"
+    },
+    "description": {
+      "type": "string",
+      "description": "Optional description of what the chart visualizes.",
+      "example": "Stacked bar chart of monthly revenue broken down by sales region."
+    },
+    "chart_type": {
+      "type": "string",
+      "description": "The kind of chart or visualization to render.",
+      "enum": [
+        "bar",
+        "line",
+        "area",
+        "pie",
+        "donut",
+        "scatter",
+        "bubble",
+        "heatmap",
+        "histogram",
+        "boxplot",
+        "table",
+        "kpi",
+        "map",
+        "treemap",
+        "sankey",
+        "subway-map",
+        "graph",
+        "other"
+      ],
+      "example": "bar"
+    },
+    "data_source": {
+      "type": "object",
+      "description": "Reference to the data source the chart queries against.",
+      "properties": {
+        "id": {
+          "type": "string",
+          "example": "ds_warehouse_prod"
+        },
+        "type": {
+          "type": "string",
+          "enum": [
+            "sql",
+            "api",
+            "file",
+            "warehouse",
+            "metric",
+            "model"
+          ],
+          "example": "sql"
+        },
+        "query": {
+          "type": "string",
+          "description": "Query, expression, or reference used to fetch chart data.",
+          "example": "SELECT region, month, SUM(revenue) FROM orders GROUP BY region, month"
+        }
+      },
+      "required": [
+        "type"
+      ]
+    },
+    "encodings": {
+      "type": "object",
+      "description": "Mapping of visual channels (x, y, color, size, etc.) to data fields.",
+      "properties": {
+        "x": {
+          "type": "string",
+          "example": "month"
+        },
+        "y": {
+          "type": "string",
+          "example": "revenue"
+        },
+        "color": {
+          "type": "string",
+          "example": "region"
+        },
+        "size": {
+          "type": "string"
+        },
+        "tooltip": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "options": {
+      "type": "object",
+      "description": "Rendering options such as theme, legend, axes, and stacking.",
+      "properties": {
+        "stacked": {
+          "type": "boolean",
+          "example": true
+        },
+        "theme": {
+          "type": "string",
+          "example": "light"
+        },
+        "legend": {
+          "type": "boolean",
+          "example": true
+        },
+        "width": {
+          "type": "int32",
+          "example": 800
+        },
+        "height": {
+          "type": "int32",
+          "example": 400
+        }
+      }
+    },
+    "tags": {
+      "type": "array",
+      "description": "Tags categorizing the chart.",
+      "items": {
+        "type": "string"
+      },
+      "example": [
+        "revenue",
+        "finance",
+        "regional"
+      ]
+    }
+  },
+  "required": [
+    "name",
+    "chart_type"
+  ]
+}

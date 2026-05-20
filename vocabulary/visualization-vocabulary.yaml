@@ -1,0 +1,353 @@
+vocabulary: "1.0.0"
+
+info:
+  provider: Visualization
+  description: Vocabulary for the data visualization topic, covering charts, dashboards, business intelligence (BI), reporting, embedded analytics, and architecture/diagram visualization.
+  created: '2026-05-19'
+  modified: '2026-05-19'
+
+operational:
+  apis:
+    - name: Tableau
+      namespace: tableau
+      status: active
+    - name: Microsoft Power BI
+      namespace: microsoft-power-bi
+      status: active
+    - name: Google Looker
+      namespace: google-looker
+      status: active
+    - name: Grafana
+      namespace: grafana
+      status: active
+    - name: Apache Superset
+      namespace: apache-superset
+      status: active
+    - name: Metabase
+      namespace: metabase
+      status: active
+    - name: Sisense
+      namespace: sisense
+      status: active
+    - name: Domo
+      namespace: domo
+      status: active
+
+  resources:
+    - name: charts
+      description: Individual chart or visualization specifications
+      actions:
+        - list
+        - get
+        - create
+        - update
+        - delete
+        - render
+    - name: dashboards
+      description: Dashboards composed of multiple widgets and charts
+      actions:
+        - list
+        - get
+        - create
+        - update
+        - delete
+        - embed
+        - export
+    - name: widgets
+      description: Visual components placed on a dashboard (charts, KPIs, filters, text)
+      actions:
+        - list
+        - get
+        - create
+        - update
+        - delete
+    - name: datasources
+      description: Connections to underlying data sources used by charts and dashboards
+      actions:
+        - list
+        - get
+        - create
+        - update
+        - delete
+        - test
+    - name: reports
+      description: Static or scheduled reports generated from dashboards
+      actions:
+        - list
+        - get
+        - create
+        - schedule
+        - export
+    - name: embed-tokens
+      description: Short-lived authentication tokens for embedding dashboards in external apps
+      actions:
+        - create
+        - revoke
+
+  actions:
+    - name: list
+      description: Enumerate resources
+      httpMethod: GET
+      pattern: read
+    - name: get
+      description: Retrieve a single resource
+      httpMethod: GET
+      pattern: read
+    - name: create
+      description: Create a new resource
+      httpMethod: POST
+      pattern: write
+    - name: update
+      description: Update an existing resource
+      httpMethod: PUT
+      pattern: write
+    - name: delete
+      description: Remove a resource
+      httpMethod: DELETE
+      pattern: destructive
+    - name: render
+      description: Render a chart or visualization to PNG, SVG, or PDF
+      httpMethod: POST
+      pattern: action
+    - name: embed
+      description: Generate an embed URL or token for a dashboard
+      httpMethod: POST
+      pattern: action
+    - name: export
+      description: Export a dashboard or report to a downloadable format
+      httpMethod: POST
+      pattern: action
+    - name: schedule
+      description: Schedule a report or refresh
+      httpMethod: POST
+      pattern: write
+    - name: test
+      description: Test a data source connection
+      httpMethod: POST
+      pattern: action
+    - name: revoke
+      description: Revoke an embed token
+      httpMethod: DELETE
+      pattern: destructive
+
+  schemas:
+    core:
+      - name: ChartSpec
+        description: Portable specification for a single chart or visualization
+        properties:
+          - name
+          - chart_type
+          - data_source
+          - encodings
+          - options
+          - tags
+      - name: Dashboard
+        description: A dashboard composed of widgets, filters, and KPIs on a host BI platform
+        properties:
+          - name
+          - platform
+          - owner
+          - widgets
+          - filters
+          - refresh_schedule
+          - embed
+          - tags
+
+  enums:
+    chart_types:
+      - bar
+      - line
+      - area
+      - pie
+      - donut
+      - scatter
+      - bubble
+      - heatmap
+      - histogram
+      - boxplot
+      - table
+      - kpi
+      - map
+      - treemap
+      - sankey
+      - subway-map
+      - graph
+    platforms:
+      - tableau
+      - power-bi
+      - looker
+      - looker-studio
+      - quicksight
+      - superset
+      - metabase
+      - grafana
+      - kibana
+      - sisense
+      - domo
+      - qlik
+      - retool
+      - streamlit
+      - perses
+      - signoz
+      - openobserve
+    widget_types:
+      - chart
+      - kpi
+      - table
+      - filter
+      - text
+      - image
+      - iframe
+    embed_auth:
+      - signed-url
+      - oauth
+      - api-key
+      - sso
+
+capability:
+  workflows:
+    - name: Executive KPI Dashboarding
+      description: Build and publish executive dashboards summarizing revenue, pipeline, and retention KPIs against the warehouse
+      apis:
+        - tableau
+        - microsoft-power-bi
+        - google-looker
+        - domo
+      personas:
+        - BI Developer
+        - Executive
+      domains:
+        - Business Intelligence
+    - name: Embedded Customer Analytics
+      description: Embed white-labeled dashboards inside a SaaS product for end customers, with secure signed-URL authentication
+      apis:
+        - sisense
+        - google-looker
+        - metabase
+      personas:
+        - Product Engineer
+      domains:
+        - Embedded Analytics
+    - name: Operational Observability Dashboards
+      description: Visualize metrics, logs, and traces across services in real-time observability dashboards
+      apis:
+        - grafana
+        - kibana
+        - perses
+        - signoz
+      personas:
+        - Site Reliability Engineer
+      domains:
+        - Observability
+    - name: Product Behavior Visualization
+      description: Visualize user funnels, retention, cohorts, and feature usage from product analytics events
+      apis:
+        - mixpanel
+        - posthog
+        - amplitude
+      personas:
+        - Product Manager
+        - Data Analyst
+      domains:
+        - Product Analytics
+    - name: API and Architecture Visualization
+      description: Render API surface, service dependency, and architecture diagrams including subway-map style API visuals
+      apis:
+        - lucidchart
+      personas:
+        - API Architect
+      domains:
+        - Architecture Visualization
+
+  personas:
+    - id: bi-developer
+      name: BI Developer
+      description: Builds dashboards, semantic models, and reports for business stakeholders
+      workflows:
+        - Executive KPI Dashboarding
+    - id: product-engineer
+      name: Product Engineer
+      description: Embeds analytics dashboards into SaaS products for end customers
+      workflows:
+        - Embedded Customer Analytics
+    - id: sre
+      name: Site Reliability Engineer
+      description: Operates production systems and builds observability dashboards on top of metrics, logs, and traces
+      workflows:
+        - Operational Observability Dashboards
+    - id: product-manager
+      name: Product Manager
+      description: Analyzes product behavior and user journeys through product analytics dashboards
+      workflows:
+        - Product Behavior Visualization
+    - id: data-analyst
+      name: Data Analyst
+      description: Builds exploratory charts, reports, and dashboards from product and business data
+      workflows:
+        - Product Behavior Visualization
+        - Executive KPI Dashboarding
+    - id: api-architect
+      name: API Architect
+      description: Visualizes API surface area, service dependencies, and architecture diagrams
+      workflows:
+        - API and Architecture Visualization
+    - id: executive
+      name: Executive
+      description: Consumes dashboards and reports summarizing business performance
+      workflows:
+        - Executive KPI Dashboarding
+
+  domains:
+    - name: Business Intelligence
+      description: Enterprise BI platforms for analysis, dashboards, and reporting against warehouses and operational data
+    - name: Embedded Analytics
+      description: Dashboards and analytics embedded inside SaaS products for end customers
+    - name: Observability
+      description: Dashboards for metrics, logs, and traces of production systems
+    - name: Product Analytics
+      description: Visualization of product usage, funnels, retention, and cohorts from event data
+    - name: Architecture Visualization
+      description: Tools for diagramming systems, services, and API surfaces, including subway-map style visuals
+
+crossReference:
+  - resource: dashboards
+    operations:
+      - list
+      - get
+      - create
+      - embed
+    workflows:
+      - Executive KPI Dashboarding
+      - Embedded Customer Analytics
+    personas:
+      - BI Developer
+      - Product Engineer
+  - resource: charts
+    operations:
+      - create
+      - update
+      - render
+    workflows:
+      - Executive KPI Dashboarding
+      - Product Behavior Visualization
+    personas:
+      - BI Developer
+      - Data Analyst
+  - resource: datasources
+    operations:
+      - create
+      - test
+    workflows:
+      - Operational Observability Dashboards
+      - Executive KPI Dashboarding
+    personas:
+      - Site Reliability Engineer
+      - BI Developer
+  - resource: embed-tokens
+    operations:
+      - create
+      - revoke
+    workflows:
+      - Embedded Customer Analytics
+    personas:
+      - Product Engineer

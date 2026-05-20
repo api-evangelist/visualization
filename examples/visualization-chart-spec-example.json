@@ -1,0 +1,24 @@
+{
+  "name": "Monthly Revenue by Region",
+  "description": "Stacked bar chart of monthly revenue broken down by sales region.",
+  "chart_type": "bar",
+  "data_source": {
+    "id": "ds_warehouse_prod",
+    "type": "sql",
+    "query": "SELECT region, DATE_TRUNC('month', order_date) AS month, SUM(revenue) AS revenue FROM orders WHERE order_date >= DATE '2026-01-01' GROUP BY 1, 2 ORDER BY 2"
+  },
+  "encodings": {
+    "x": "month",
+    "y": "revenue",
+    "color": "region",
+    "tooltip": ["region", "month", "revenue"]
+  },
+  "options": {
+    "stacked": true,
+    "theme": "light",
+    "legend": true,
+    "width": 800,
+    "height": 400
+  },
+  "tags": ["revenue", "finance", "regional"]
+}

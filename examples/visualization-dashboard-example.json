@@ -1,0 +1,36 @@
+{
+  "id": "dash_q2_revenue_review",
+  "name": "Q2 Revenue Review",
+  "description": "Executive dashboard summarizing Q2 revenue, pipeline, and retention KPIs.",
+  "platform": "looker",
+  "owner": "analytics@example.com",
+  "widgets": [
+    {
+      "id": "w_total_revenue_kpi",
+      "type": "kpi",
+      "position": { "x": 0, "y": 0, "w": 3, "h": 2 }
+    },
+    {
+      "id": "w_revenue_by_region",
+      "type": "chart",
+      "chart_ref": "chart_monthly_revenue_by_region",
+      "position": { "x": 3, "y": 0, "w": 9, "h": 4 }
+    },
+    {
+      "id": "w_pipeline_table",
+      "type": "table",
+      "position": { "x": 0, "y": 4, "w": 12, "h": 4 }
+    }
+  ],
+  "filters": [
+    { "field": "region", "operator": "in", "value": ["NA", "EMEA", "APAC"] },
+    { "field": "quarter", "operator": "=", "value": "2026-Q2" }
+  ],
+  "refresh_schedule": "0 */4 * * *",
+  "embed": {
+    "enabled": true,
+    "url": "https://example.lookerembed.com/embed/dashboards/123",
+    "auth": "signed-url"
+  },
+  "tags": ["executive", "finance", "kpi"]
+}

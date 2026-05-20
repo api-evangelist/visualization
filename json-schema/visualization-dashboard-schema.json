@@ -1,0 +1,125 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/visualization/refs/heads/main/json-schema/visualization-dashboard-schema.json",
+  "title": "Dashboard",
+  "description": "A dashboard composed of multiple charts, widgets, filters, and KPIs against one or more data sources, published by a BI or visualization platform.",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier of the dashboard within its host platform.",
+      "example": "dash_q2_revenue_review"
+    },
+    "name": {
+      "type": "string",
+      "description": "Display name of the dashboard.",
+      "example": "Q2 Revenue Review"
+    },
+    "description": {
+      "type": "string",
+      "description": "Description of the dashboard's purpose and audience.",
+      "example": "Executive dashboard summarizing Q2 revenue, pipeline, and retention KPIs."
+    },
+    "platform": {
+      "type": "string",
+      "description": "The visualization or BI platform hosting the dashboard.",
+      "enum": [
+        "tableau",
+        "power-bi",
+        "looker",
+        "looker-studio",
+        "quicksight",
+        "superset",
+        "metabase",
+        "grafana",
+        "kibana",
+        "sisense",
+        "domo",
+        "qlik",
+        "retool",
+        "streamlit",
+        "perses",
+        "signoz",
+        "openobserve",
+        "other"
+      ],
+      "example": "looker"
+    },
+    "owner": {
+      "type": "string",
+      "description": "User or team that owns the dashboard.",
+      "example": "analytics@example.com"
+    },
+    "widgets": {
+      "type": "array",
+      "description": "Charts, KPIs, tables, and other widgets that compose the dashboard.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": { "type": "string", "example": "w_revenue_by_region" },
+          "type": {
+            "type": "string",
+            "enum": ["chart", "kpi", "table", "filter", "text", "image", "iframe"],
+            "example": "chart"
+          },
+          "chart_ref": {
+            "type": "string",
+            "description": "Reference to a ChartSpec id if this widget renders a chart.",
+            "example": "chart_monthly_revenue_by_region"
+          },
+          "position": {
+            "type": "object",
+            "properties": {
+              "x": { "type": "integer", "example": 0 },
+              "y": { "type": "integer", "example": 0 },
+              "w": { "type": "integer", "example": 6 },
+              "h": { "type": "integer", "example": 4 }
+            }
+          }
+        },
+        "required": ["type"]
+      }
+    },
+    "filters": {
+      "type": "array",
+      "description": "Dashboard-level filters applied across widgets.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "field": { "type": "string", "example": "region" },
+          "operator": { "type": "string", "example": "in" },
+          "value": {}
+        }
+      }
+    },
+    "refresh_schedule": {
+      "type": "string",
+      "description": "Schedule for refreshing dashboard data, in cron or natural-language form.",
+      "example": "0 */4 * * *"
+    },
+    "embed": {
+      "type": "object",
+      "description": "Embed and sharing configuration for the dashboard.",
+      "properties": {
+        "enabled": { "type": "boolean", "example": true },
+        "url": {
+          "type": "string",
+          "format": "uri",
+          "example": "https://example.lookerembed.com/embed/dashboards/123"
+        },
+        "auth": {
+          "type": "string",
+          "enum": ["signed-url", "oauth", "api-key", "sso"],
+          "example": "signed-url"
+        }
+      }
+    },
+    "tags": {
+      "type": "array",
+      "description": "Tags categorizing the dashboard.",
+      "items": { "type": "string" },
+      "example": ["executive", "finance", "kpi"]
+    }
+  },
+  "required": ["name", "platform"]
+}

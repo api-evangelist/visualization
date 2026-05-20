@@ -1,0 +1,82 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "viz": "https://api-evangelist.github.io/visualization/schema/",
+    "schema": "https://schema.org/",
+    "dcterms": "http://purl.org/dc/terms/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dcat": "https://www.w3.org/ns/dcat#",
+
+    "ChartSpec": "viz:ChartSpec",
+    "Dashboard": "viz:Dashboard",
+    "Widget": "viz:Widget",
+    "DataSource": "viz:DataSource",
+
+    "name": "schema:name",
+    "description": "schema:description",
+    "owner": "schema:creator",
+
+    "chart_type": {
+      "@id": "viz:chartType",
+      "@type": "xsd:string"
+    },
+    "platform": {
+      "@id": "viz:platform",
+      "@type": "xsd:string"
+    },
+    "data_source": {
+      "@id": "viz:dataSource",
+      "@type": "@id"
+    },
+    "encodings": {
+      "@id": "viz:encodings"
+    },
+    "options": {
+      "@id": "viz:options"
+    },
+    "widgets": {
+      "@id": "viz:widgets",
+      "@container": "@set",
+      "@type": "@id"
+    },
+    "filters": {
+      "@id": "viz:filters",
+      "@container": "@set"
+    },
+    "refresh_schedule": {
+      "@id": "viz:refreshSchedule",
+      "@type": "xsd:string"
+    },
+    "embed": {
+      "@id": "viz:embed"
+    },
+    "url": {
+      "@id": "schema:url",
+      "@type": "@id"
+    },
+    "auth": {
+      "@id": "viz:auth",
+      "@type": "xsd:string"
+    },
+    "query": {
+      "@id": "viz:query",
+      "@type": "xsd:string"
+    },
+    "chart_ref": {
+      "@id": "viz:chartRef",
+      "@type": "@id"
+    },
+    "position": {
+      "@id": "viz:position"
+    },
+    "tags": {
+      "@id": "dcat:keyword",
+      "@container": "@set",
+      "@type": "xsd:string"
+    },
+    "type": {
+      "@id": "schema:additionalType",
+      "@type": "xsd:string"
+    }
+  }
+}
