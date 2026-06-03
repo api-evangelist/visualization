@@ -1,0 +1,26 @@
+title: Visualization
+description: An index and topic collection covering data visualization, charts, dashboards,
+  business intelligence (BI), and reporting APIs. Data visualization platforms turn
+  raw data into charts, graphs, and interactive dashboards that drive insight, decision-making,
+  and storytelling. This collection includes enterprise BI platforms like Tableau,
+  Microsoft Power BI, Looker, Qlik Sense, Sisense, and Domo; modern cloud BI and embedded
+  analytics like Looker Studio, Amazon QuickSight, and Metabase; open-source dashboarding
+  and viz like Apache Superset, Grafana, Kibana, Perses, SigNoz, and OpenObserve;
+  charting libraries and frameworks like Matplotlib, Streamlit, Apache Zeppelin; product
+  analytics and observability dashboards like Mixpanel, PostHog, Amplitude, Datadog,
+  Adobe Analytics, and Keen; and architecture and diagramming tools like Lucidchart,
+  alongside the API Evangelist's own subway-map style visualizations.
+url: https://visualization.apievangelist.com
+collections:
+  api_stories:
+    output: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- Dockerfile
+- examples
+- json-ld
+- json-schema
+- json-structure
+- vocabulary

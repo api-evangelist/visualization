@@ -1,0 +1,211 @@
+meta:
+  name: Visualization
+  description: An index and topic collection covering data visualization, charts,
+    dashboards, business intelligence (BI), and reporting APIs. Data visualization
+    platforms turn raw data into charts, graphs, and interactive dashboards that drive
+    insight, decision-making, and storytelling. This collection includes enterprise
+    BI platforms like Tableau, Microsoft Power BI, Looker, Qlik Sense, Sisense, and
+    Domo; modern cloud BI and embedded analytics like Looker Studio, Amazon QuickSight,
+    and Metabase; open-source dashboarding and viz like Apache Superset, Grafana,
+    Kibana, Perses, SigNoz, and OpenObserve; charting libraries and frameworks like
+    Matplotlib, Streamlit, Apache Zeppelin; product analytics and observability dashboards
+    like Mixpanel, PostHog, Amplitude, Datadog, Adobe Analytics, and Keen; and architecture
+    and diagramming tools like Lucidchart, alongside the API Evangelist's own subway-map
+    style visualizations.
+  tags:
+  - Data Visualization
+  - Charts
+  - Dashboards
+  - BI
+  - Business Intelligence
+  - Reporting
+  - Analytics
+  - Subway Map
+  portal: https://apievangelist.com
+  github: https://github.com/api-evangelist
+  repo: visualization
+services_tools:
+- name: Adobe Analytics
+  repo: https://github.com/api-evangelist/adobe-analytics
+  apisio: https://providers.apis.io/providers/adobe-analytics/
+- name: Amazon Managed Grafana
+  repo: https://github.com/api-evangelist/amazon-managed-grafana
+  apisio: https://providers.apis.io/providers/amazon-managed-grafana/
+- name: Amazon QuickSight
+  repo: https://github.com/api-evangelist/amazon-quicksight
+  apisio: https://providers.apis.io/providers/amazon-quicksight/
+- name: Amplitude
+  repo: https://github.com/api-evangelist/amplitude
+  apisio: https://providers.apis.io/providers/amplitude/
+- name: Apache Superset
+  repo: https://github.com/api-evangelist/apache-superset
+  apisio: https://providers.apis.io/providers/apache-superset/
+- name: Apache Zeppelin
+  repo: https://github.com/api-evangelist/apache-zeppelin
+  apisio: https://providers.apis.io/providers/apache-zeppelin/
+- name: Crystal Reports
+  repo: https://github.com/api-evangelist/crystal-reports
+  apisio: https://providers.apis.io/providers/crystal-reports/
+- name: Datadog
+  repo: https://github.com/api-evangelist/datadog
+  apisio: https://providers.apis.io/providers/datadog/
+- name: Domo
+  repo: https://github.com/api-evangelist/domo
+  apisio: https://providers.apis.io/providers/domo/
+- name: Dune Analytics
+  repo: https://github.com/api-evangelist/dune-analytics
+  apisio: https://providers.apis.io/providers/dune-analytics/
+- name: Geckoboard
+  repo: https://github.com/api-evangelist/geckoboard
+  apisio: https://providers.apis.io/providers/geckoboard/
+- name: Google Data Studio
+  repo: https://github.com/api-evangelist/google-data-studio
+  apisio: https://providers.apis.io/providers/google-data-studio/
+- name: Google Looker
+  repo: https://github.com/api-evangelist/google-looker
+  apisio: https://providers.apis.io/providers/google-looker/
+- name: Google Looker Studio
+  repo: https://github.com/api-evangelist/google-looker-studio
+  apisio: https://providers.apis.io/providers/google-looker-studio/
+- name: Grafana
+  repo: https://github.com/api-evangelist/grafana
+  apisio: https://providers.apis.io/providers/grafana/
+- name: Keen
+  repo: https://github.com/api-evangelist/keen
+  apisio: https://providers.apis.io/providers/keen/
+- name: Kibana
+  repo: https://github.com/api-evangelist/kibana
+  apisio: https://providers.apis.io/providers/kibana/
+- name: Knowi
+  repo: https://github.com/api-evangelist/knowi
+  apisio: https://providers.apis.io/providers/knowi/
+- name: Lucidchart
+  repo: https://github.com/api-evangelist/lucidchart
+  apisio: https://providers.apis.io/providers/lucidchart/
+- name: Matplotlib
+  repo: https://github.com/api-evangelist/matplotlib
+  apisio: https://providers.apis.io/providers/matplotlib/
+- name: Metabase
+  repo: https://github.com/api-evangelist/metabase
+  apisio: https://providers.apis.io/providers/metabase/
+- name: Microsoft Power BI
+  repo: https://github.com/api-evangelist/microsoft-power-bi
+  apisio: https://providers.apis.io/providers/microsoft-power-bi/
+- name: Mixpanel
+  repo: https://github.com/api-evangelist/mixpanel
+  apisio: https://providers.apis.io/providers/mixpanel/
+- name: OpenObserve
+  repo: https://github.com/api-evangelist/openobserve
+  apisio: https://providers.apis.io/providers/openobserve/
+- name: Perses
+  repo: https://github.com/api-evangelist/perses
+  apisio: https://providers.apis.io/providers/perses/
+- name: PostHog
+  repo: https://github.com/api-evangelist/posthog
+  apisio: https://providers.apis.io/providers/posthog/
+- name: Qlik Sense
+  repo: https://github.com/api-evangelist/qlik-sense
+  apisio: https://providers.apis.io/providers/qlik-sense/
+- name: Qlikview
+  repo: https://github.com/api-evangelist/qlikview
+  apisio: https://providers.apis.io/providers/qlikview/
+- name: Retool
+  repo: https://github.com/api-evangelist/retool
+  apisio: https://providers.apis.io/providers/retool/
+- name: SAP BI
+  repo: https://github.com/api-evangelist/sap-bi
+  apisio: https://providers.apis.io/providers/sap-bi/
+- name: SigNoz
+  repo: https://github.com/api-evangelist/signoz
+  apisio: https://providers.apis.io/providers/signoz/
+- name: Sisense
+  repo: https://github.com/api-evangelist/sisense
+  apisio: https://providers.apis.io/providers/sisense/
+- name: Streamlit
+  repo: https://github.com/api-evangelist/streamlit
+  apisio: https://providers.apis.io/providers/streamlit/
+- name: Tableau
+  repo: https://github.com/api-evangelist/tableau
+  apisio: https://providers.apis.io/providers/tableau/
+features:
+- name: Chart and Graph Rendering
+  description: Visualization APIs accept data and configuration and return rendered
+    charts, graphs, or images, including bar, line, pie, scatter, heatmap, and geospatial
+    chart types.
+- name: Interactive Dashboards
+  description: Dashboard platforms expose APIs to define, embed, and refresh interactive
+    dashboards composed of multiple charts, KPIs, filters, and drill-downs against
+    live data sources.
+- name: Data Source Connectivity
+  description: BI and visualization platforms connect to databases, warehouses, files,
+    and APIs as data sources, exposing APIs to manage connections, queries, datasets,
+    and refresh schedules.
+- name: Embedded Analytics
+  description: Visualization vendors provide embedded analytics SDKs and APIs that
+    let product teams ship dashboards and reports inside their own applications, white-labeled
+    and authenticated.
+- name: Query and Semantic Layer
+  description: Modern BI exposes a semantic and metrics layer through APIs so charts,
+    dashboards, and AI agents share consistent definitions of dimensions, measures,
+    and joins.
+- name: Report Generation and Scheduling
+  description: Reporting APIs render PDFs, images, and snapshots of dashboards and
+    reports, schedule deliveries, and distribute them through email, Slack, and webhooks.
+- name: Architecture and Diagram Visualization
+  description: Diagramming and graph tools like Lucidchart, Graphviz, Mermaid, and
+    Cytoscape expose APIs to render service maps, dependency graphs, and API subway-map
+    style visuals.
+use_cases:
+- name: Executive Dashboards and KPI Reporting
+  description: Companies build executive dashboards in Tableau, Power BI, Looker,
+    or Domo that surface revenue, pipeline, retention, and operations KPIs against
+    live warehouse data.
+- name: Embedded Customer-Facing Analytics
+  description: SaaS products embed Sisense, Looker, Metabase, or Knowi dashboards
+    inside their apps so customers can analyze their own data without leaving the
+    product.
+- name: Operational and Observability Dashboards
+  description: Engineering teams visualize metrics, logs, and traces in Grafana, Kibana,
+    Perses, SigNoz, and OpenObserve to monitor systems, alert on incidents, and investigate
+    outages.
+- name: Product Analytics and Behavior Visualization
+  description: Product teams use Mixpanel, Amplitude, PostHog, and Adobe Analytics
+    dashboards to visualize funnels, retention, cohorts, and feature usage across
+    web and mobile.
+- name: Data Science Notebooks and Charting
+  description: Data scientists generate charts and exploratory visualizations in Matplotlib,
+    Streamlit, and Apache Zeppelin notebooks, then publish dashboards or reports for
+    stakeholders.
+- name: API and Architecture Visualization
+  description: Platform teams render API surface, service dependency, and architecture
+    diagrams using Lucidchart, Graphviz, Mermaid, and API Evangelist style subway-map
+    visuals.
+- name: Financial and Web3 Analytics Dashboards
+  description: Analysts publish dashboards in Dune Analytics, Domo, and Power BI for
+    on-chain crypto activity, financial reporting, and operational performance across
+    business units.
+integrations:
+- name: Tableau
+  description: Enterprise BI platform with rich interactive dashboards, embedded analytics,
+    and a REST API for content, data sources, jobs, and user management.
+- name: Microsoft Power BI
+  description: Microsoft's enterprise BI service with desktop, cloud, and embedded
+    experiences, plus a REST API for datasets, reports, dashboards, and workspaces.
+- name: Google Looker
+  description: Modeled BI platform with a semantic LookML layer, dashboards, and a
+    REST API for managing queries, dashboards, and embedded analytics.
+- name: Grafana
+  description: Open-source dashboard platform for time-series, metrics, logs, and
+    traces with a HTTP API for dashboards, datasources, alerts, and organizations.
+- name: Apache Superset
+  description: Open-source data exploration and dashboarding platform with a REST
+    API for charts, dashboards, datasets, and SQL Lab queries.
+- name: Metabase
+  description: Open-source BI tool focused on simple question-driven analytics with
+    an API for questions, dashboards, collections, and embedding.
+- name: Sisense
+  description: Embedded analytics and BI platform with APIs for dashboards, widgets,
+    data models, and white-labeled embeddable analytics.
+- name: Domo
+  description: Cloud BI platform with APIs for datasets, cards, pages, users, and
+    a strong focus on executive dashboards and storytelling.
