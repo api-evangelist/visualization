@@ -6,7 +6,7 @@ description: >-
   Amazon QuickSight, and Metabase; open-source dashboarding and viz like Apache Superset, Grafana, Kibana, Perses, SigNoz, and OpenObserve; charting libraries and frameworks like Matplotlib, Streamlit, Apache Zeppelin; product
   analytics and observability dashboards like Mixpanel, PostHog, Amplitude, Datadog, Adobe Analytics, and Keen; and architecture and diagramming tools like Lucidchart, alongside the API Evangelist's own subway-map style visualizations.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
 - Data Visualization
 - Charts
