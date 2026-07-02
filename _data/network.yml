@@ -1,0 +1,31 @@
+related:
+- name: Breaches
+  url: https://breaches.apievangelist.com
+  icon: https://breaches.apievangelist.com/icon.png
+  description: An index and topic collection covering data breach intelligence, credential exposure databases,
+    dark-web monitoring, and leak detection APIs. Breach intelligence platforms…
+- name: Migration
+  url: https://migration.apievangelist.com
+  icon: https://migration.apievangelist.com/icon.png
+  description: An index and topic collection covering data migration, cloud migration, database migration,
+    and API migration platforms and services. Migration platforms help organizations move…
+- name: Management
+  url: https://management.apievangelist.com
+  icon: https://management.apievangelist.com/icon.png
+  description: An index and topic collection covering full-stack API management platforms — solutions
+    that combine an API gateway, developer portal, analytics, monetization, governance, and…
+- name: Backups
+  url: https://backups.apievangelist.com
+  icon: https://backups.apievangelist.com/icon.png
+  description: An index and topic collection covering backup, disaster recovery, and data protection APIs.
+    Backup APIs enable applications and platforms to schedule, orchestrate, and verify the…
+- name: Analysis
+  url: https://analysis.apievangelist.com
+  icon: https://analysis.apievangelist.com/icon.png
+  description: A curated index of services, tooling, and open source solutions for API analysis, analytics,
+    linting, traffic inspection, and intelligence. This topic collection covers the full…
+- name: Road Map
+  url: https://road-map.apievangelist.com
+  icon: https://road-map.apievangelist.com/icon.png
+  description: An index and topic collection covering public product road map publishing, feature voting,
+    customer feedback aggregation, and product discovery surfaces. Public road map platforms…
