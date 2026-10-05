@@ -1,5 +1,6 @@
 aid: visualization
 name: Visualization
+kind: topic
 description: >-
   An index and topic collection covering data visualization, charts, dashboards, business intelligence (BI), and reporting APIs. Data visualization platforms turn raw data into charts, graphs, and interactive dashboards that
   drive insight, decision-making, and storytelling. This collection includes enterprise BI platforms like Tableau, Microsoft Power BI, Looker, Qlik Sense, Sisense, and Domo; modern cloud BI and embedded analytics like Looker Studio,
