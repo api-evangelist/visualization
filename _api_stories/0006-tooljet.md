@@ -1,7 +1,7 @@
 ---
-title: Build a Hospital Analytics Dashboard with ToolJet MCP
-link: https://blog.tooljet.com/build-hospital-analytics-dashboard-tooljet-mcp/
-published: '2026-09-04'
+title: Build a Fleet Operations Dashboard with ToolJet MCP
+link: https://blog.tooljet.com/fleet-operations-dashboard/
+published: '2026-09-09'
 provider: tooljet
 repo: https://github.com/api-evangelist/tooljet
 domain: blog.tooljet.com
