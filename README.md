@@ -1,126 +1,97 @@
-# Visualization (visualization)
+# Visualization
+
+<!-- API-EVANGELIST-PROVENANCE:BEGIN -->
+> ### About this repository
+>
+> **This is not our API.** This repository is an independent, third-party profile of a company's
+> **publicly available** API surface, maintained by [API Evangelist](https://apievangelist.com).
+> API Evangelist does not operate, host, resell, or support this company's APIs, and is not
+> affiliated with or endorsed by the company unless stated on the profile.
+>
+> **Where the information came from.** Everything here is assembled from material a member of the
+> public can reach with a browser and no credentials — the company's own website, developer portal
+> and documentation, the specifications it publishes for public use (OpenAPI, AsyncAPI, JSON Schema,
+> `apis.json`, `llms.txt` and similar), its public repositories, and its public status, pricing and
+> changelog pages. **Nothing here is obtained by breaching a system, defeating an access control, or
+> using credentials of any kind.**
+>
+> **The rating is an independent assessment.** The Kin Score and Agent Readiness rating are
+> independently calculated scores of a company's *public* API artifacts, produced by API Evangelist
+> against a published rubric. They are not certifications, endorsements, security assessments, or
+> audits, and they score published artifacts — not the quality, safety, or security of the software.
+>
+> **Corrections, re-scores, and removal are free.** No partnership, contract, or purchase is
+> required, and you do not need to justify the request.
+>
+> - **Something wrong?** Open an issue on this repository, or email
+>   [info@apievangelist.com](mailto:info@apievangelist.com).
+> - **Published something new?** Ask for a re-score and we will re-run the rating.
+> - **Want the listing taken down?** Say so and we will honor it. The profile is reduced to your
+>   company name, a factual description, and a link to your own site, and the company is recorded as
+>   **unrated** — never scored zero for having asked.
+>
+> **Response times.** Acknowledgement within **one business day**; removal or restriction within
+> **two business days**; corrections and re-scores within **five business days**.
+>
+> **Not from the company, and here with a question?** You are welcome here — we would rather be the
+> front line and point you the right way than have a good report go nowhere. What this repository
+> can answer is narrow, though, so it is worth knowing who you are actually looking for:
+>
+> - **A question about how the API works, an account, billing, or a bug in the service** — that is
+>   the company's own support, not us. We profile this API; we do not operate it and cannot see
+>   your account.
+> - **A bug in an open-source project we only catalog** — file it on that project's own repository.
+>   This has happened with a real and correct bug report that reached us instead of the people who
+>   could fix it, which helped nobody.
+> - **Anything about this listing itself** — the description, the tags, the rating, a missing or
+>   wrong artifact — is ours. Open an issue here.
+> - **Not sure, or something general about API Evangelist or APIs.io** — open an issue on the
+>   [APIs.io Inbox](https://github.com/api-search/inbox) and we will route it.
+>
+> **This repository contains no software, and we will never ask you to download anything.** There is
+> no build, release, installer, or binary here — only text and machine-readable API descriptions, so
+> there is nothing here that can be "corrupt" or need "repairing". Any issue, comment, or email
+> claiming otherwise and offering a download link is not from us and is hostile. Do not follow the
+> link; it is a lure. Report it to GitHub and, if you like, tell us at
+> [info@apievangelist.com](mailto:info@apievangelist.com) so we can take it down.
+>
+> **On a security or compliance team?** Email
+> [info@apievangelist.com](mailto:info@apievangelist.com) with *security* in the subject line and
+> you will get a person, not a form. We will tell you exactly which public URLs this profile was
+> built from so your team can see the same surface we did, and we will take the listing down on
+> request while you work through it.
+>
+> Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
+<!-- API-EVANGELIST-PROVENANCE:END -->
+
 An index and topic collection covering data visualization, charts, dashboards, business intelligence (BI), and reporting APIs. Data visualization platforms turn raw data into charts, graphs, and interactive dashboards that drive insight, decision-making, and storytelling. This collection includes enterprise BI platforms like Tableau, Microsoft Power BI, Looker, Qlik Sense, Sisense, and Domo; modern cloud BI and embedded analytics like Looker Studio, Amazon QuickSight, and Metabase; open-source dashboarding and viz like Apache Superset, Grafana, Kibana, Perses, SigNoz, and OpenObserve; charting libraries and frameworks like Matplotlib, Streamlit, Apache Zeppelin; product analytics and observability dashboards like Mixpanel, PostHog, Amplitude, Datadog, Adobe Analytics, and Keen; and architecture and diagramming tools like Lucidchart, alongside the API Evangelist's own subway-map style visualizations.
 
-**URL:** [https://apievangelist.com](https://apievangelist.com)
+**Areas:** Data Visualization · Charts · Dashboards · Business Intelligence · Reporting · Analytics · Subway Map
 
-## Tags:
+## Visualization on APIs.io
 
- - Data Visualization, Charts, Dashboards, BI, Business Intelligence, Reporting, Analytics, Subway Map
+Everything profiled for Visualization is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/visualization/](https://apis.io/providers/visualization/)** — or go straight to one of the APIs or properties below.
 
-## Timestamps
+## Where to find this API
 
-- **Created:** 2026-05-19
-- **Modified:** 2026-05-19
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-## Common Properties
+- [GitHub](https://github.com/api-evangelist)
 
-- [Portal](https://apievangelist.com)
-- [GitHubOrganization](https://github.com/api-evangelist)
-- [JSONSchema - Chart Spec Schema](https://raw.githubusercontent.com/api-evangelist/visualization/refs/heads/main/json-schema/visualization-chart-spec-schema.json)
-- [JSONSchema - Dashboard Schema](https://raw.githubusercontent.com/api-evangelist/visualization/refs/heads/main/json-schema/visualization-dashboard-schema.json)
-- [JSON-LD](https://raw.githubusercontent.com/api-evangelist/visualization/refs/heads/main/json-ld/visualization-context.jsonld)
-- [Vocabulary](https://raw.githubusercontent.com/api-evangelist/visualization/refs/heads/main/vocabulary/visualization-vocabulary.yaml)
+## API Evangelist rating
 
-## Features
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-| Name | Description |
-|------|-------------|
-| Chart and Graph Rendering | Visualization APIs accept data and configuration and return rendered charts, graphs, or images, including bar, line, pie, scatter, heatmap, and geospatial chart types. |
-| Interactive Dashboards | Dashboard platforms expose APIs to define, embed, and refresh interactive dashboards composed of multiple charts, KPIs, filters, and drill-downs against live data sources. |
-| Data Source Connectivity | BI and visualization platforms connect to databases, warehouses, files, and APIs as data sources, exposing APIs to manage connections, queries, datasets, and refresh schedules. |
-| Embedded Analytics | Visualization vendors provide embedded analytics SDKs and APIs that let product teams ship dashboards and reports inside their own applications, white-labeled and authenticated. |
-| Query and Semantic Layer | Modern BI exposes a semantic and metrics layer through APIs so charts, dashboards, and AI agents share consistent definitions of dimensions, measures, and joins. |
-| Report Generation and Scheduling | Reporting APIs render PDFs, images, and snapshots of dashboards and reports, schedule deliveries, and distribute them through email, Slack, and webhooks. |
-| Architecture and Diagram Visualization | Diagramming and graph tools like Lucidchart, Graphviz, Mermaid, and Cytoscape expose APIs to render service maps, dependency graphs, and API subway-map style visuals. |
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
-## Use Cases
+## How this profile is made
 
-| Name | Description |
-|------|-------------|
-| Executive Dashboards and KPI Reporting | Companies build executive dashboards in Tableau, Power BI, Looker, or Domo that surface revenue, pipeline, retention, and operations KPIs against live warehouse data. |
-| Embedded Customer-Facing Analytics | SaaS products embed Sisense, Looker, Metabase, or Knowi dashboards inside their apps so customers can analyze their own data without leaving the product. |
-| Operational and Observability Dashboards | Engineering teams visualize metrics, logs, and traces in Grafana, Kibana, Perses, SigNoz, and OpenObserve to monitor systems and investigate outages. |
-| Product Analytics and Behavior Visualization | Product teams use Mixpanel, Amplitude, PostHog, and Adobe Analytics dashboards to visualize funnels, retention, cohorts, and feature usage. |
-| Data Science Notebooks and Charting | Data scientists generate charts and exploratory visualizations in Matplotlib, Streamlit, and Apache Zeppelin notebooks, then publish dashboards or reports for stakeholders. |
-| API and Architecture Visualization | Platform teams render API surface, service dependency, and architecture diagrams using Lucidchart, Graphviz, Mermaid, and API Evangelist style subway-map visuals. |
-| Financial and Web3 Analytics Dashboards | Analysts publish dashboards in Dune Analytics, Domo, and Power BI for on-chain crypto activity, financial reporting, and operational performance. |
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Integrations
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Visualization: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-| Name | Description |
-|------|-------------|
-| Tableau | Enterprise BI platform with rich interactive dashboards, embedded analytics, and a REST API for content, data sources, jobs, and user management. |
-| Microsoft Power BI | Microsoft's enterprise BI service with desktop, cloud, and embedded experiences, plus a REST API for datasets, reports, dashboards, and workspaces. |
-| Google Looker | Modeled BI platform with a semantic LookML layer, dashboards, and a REST API for managing queries, dashboards, and embedded analytics. |
-| Grafana | Open-source dashboard platform for time-series, metrics, logs, and traces with a HTTP API for dashboards, datasources, alerts, and organizations. |
-| Apache Superset | Open-source data exploration and dashboarding platform with a REST API for charts, dashboards, datasets, and SQL Lab queries. |
-| Metabase | Open-source BI tool focused on simple question-driven analytics with an API for questions, dashboards, collections, and embedding. |
-| Sisense | Embedded analytics and BI platform with APIs for dashboards, widgets, data models, and white-labeled embeddable analytics. |
-| Domo | Cloud BI platform with APIs for datasets, cards, pages, users, and a strong focus on executive dashboards and storytelling. |
+## Open an issue
 
-## Artifacts
-
-Machine-readable API specifications organized by format.
-
-### JSON Schema
-
-- [Chart Spec Schema](json-schema/visualization-chart-spec-schema.json)
-- [Dashboard Schema](json-schema/visualization-dashboard-schema.json)
-
-### JSON Structure
-
-- [Chart Spec Structure](json-structure/visualization-chart-spec-structure.json)
-- [Dashboard Structure](json-structure/visualization-dashboard-structure.json)
-
-### JSON-LD
-
-- [Visualization Context](json-ld/visualization-context.jsonld)
-
-## Vocabulary
-
-- [Visualization Vocabulary](vocabulary/visualization-vocabulary.yaml) — Unified taxonomy mapping resources, actions, workflows, and personas across charting, BI, dashboards, and embedded analytics
-
-## Network
-
-This index references the following data visualization, dashboards, and BI repositories:
-
-- [Adobe Analytics](https://github.com/api-evangelist/adobe-analytics)
-- [Amazon Managed Grafana](https://github.com/api-evangelist/amazon-managed-grafana)
-- [Amazon QuickSight](https://github.com/api-evangelist/amazon-quicksight)
-- [Amplitude](https://github.com/api-evangelist/amplitude)
-- [Apache Superset](https://github.com/api-evangelist/apache-superset)
-- [Apache Zeppelin](https://github.com/api-evangelist/apache-zeppelin)
-- [Crystal Reports](https://github.com/api-evangelist/crystal-reports)
-- [Datadog](https://github.com/api-evangelist/datadog)
-- [Domo](https://github.com/api-evangelist/domo)
-- [Dune Analytics](https://github.com/api-evangelist/dune-analytics)
-- [Geckoboard](https://github.com/api-evangelist/geckoboard)
-- [Google Data Studio](https://github.com/api-evangelist/google-data-studio)
-- [Google Looker](https://github.com/api-evangelist/google-looker)
-- [Google Looker Studio](https://github.com/api-evangelist/google-looker-studio)
-- [Grafana](https://github.com/api-evangelist/grafana)
-- [Keen](https://github.com/api-evangelist/keen)
-- [Kibana](https://github.com/api-evangelist/kibana)
-- [Knowi](https://github.com/api-evangelist/knowi)
-- [Lucidchart](https://github.com/api-evangelist/lucidchart)
-- [Matplotlib](https://github.com/api-evangelist/matplotlib)
-- [Metabase](https://github.com/api-evangelist/metabase)
-- [Microsoft Power BI](https://github.com/api-evangelist/microsoft-power-bi)
-- [Mixpanel](https://github.com/api-evangelist/mixpanel)
-- [OpenObserve](https://github.com/api-evangelist/openobserve)
-- [Perses](https://github.com/api-evangelist/perses)
-- [PostHog](https://github.com/api-evangelist/posthog)
-- [Qlik Sense](https://github.com/api-evangelist/qlik-sense)
-- [Qlikview](https://github.com/api-evangelist/qlikview)
-- [Retool](https://github.com/api-evangelist/retool)
-- [SAP BI](https://github.com/api-evangelist/sap-bi)
-- [SigNoz](https://github.com/api-evangelist/signoz)
-- [Sisense](https://github.com/api-evangelist/sisense)
-- [Streamlit](https://github.com/api-evangelist/streamlit)
-- [Tableau](https://github.com/api-evangelist/tableau)
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/visualization/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
